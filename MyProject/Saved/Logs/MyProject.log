@@ -1,0 +1,1085 @@
+﻿Log file open, 10/14/21 23:57:59
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.230499
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=arayathongleg -epicuserid=9fa2559e84ec4eb3a8e86d261efa3ad1 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.14-16.57.59:582][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.14-16.57.59:582][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.14-16.57.59:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.10.14-16.57.59:582][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.10.14-16.57.59:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.14-16.57.59:583][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.10.14-16.57.59:583][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.10.14-16.57.59:588][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.14-16.57.59:588][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.14-16.57.59:589][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.14-16.57.59:590][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-16.57.59:590][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.14-16.57.59:590][  0]LogHAL: Display: Platform has ~ 16 GB [17014837248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.14-16.57.59:590][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.14-16.57.59:590][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.14-16.57.59:590][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.14-16.57.59:591][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.14-16.57.59:592][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.14-16.57.59:592][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.14-16.57.59:592][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.14-16.57.59:592][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.10.14-16.57.59:592][  0]LogInit: Computer: DESKTOP-OGCOFB0
+[2021.10.14-16.57.59:592][  0]LogInit: User: Oil
+[2021.10.14-16.57.59:592][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.10.14-16.57.59:592][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.14-16.57.59:592][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.10.14-16.57.59:592][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.14-16.57.59:592][  0]LogMemory: Process Physical Memory: 137.13 MB used, 137.13 MB peak
+[2021.10.14-16.57.59:592][  0]LogMemory: Process Virtual Memory: 109.81 MB used, 109.81 MB peak
+[2021.10.14-16.57.59:592][  0]LogMemory: Physical Memory: 10901.26 MB used,  5325.35 MB free, 16226.61 MB total
+[2021.10.14-16.57.59:592][  0]LogMemory: Virtual Memory: 134211112.00 MB used,  6615.90 MB free, 134217728.00 MB total
+[2021.10.14-16.57.59:596][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.14-16.57.59:617][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.14-16.57.59:617][  0]LogInit: Using OS detected language (en-US).
+[2021.10.14-16.57.59:617][  0]LogInit: Using OS detected locale (en-GB).
+[2021.10.14-16.57.59:620][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.14-16.57.59:799][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.14-16.57.59:812][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.14-16.57.59:827][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.14-16.57.59:827][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.14-16.57.59:987][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.14-16.57.59:987][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.14-16.57.59:987][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.14-16.57.59:987][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.14-16.58.00:059][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti with Max-Q Design' (Feature Level 11_0)
+[2021.10.14-16.58.00:060][  0]LogD3D11RHI:       4021/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.10.14-16.58.00:083][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.10.14-16.58.00:083][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.10.14-16.58.00:085][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.14-16.58.00:085][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.14-16.58.00:085][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.14-16.58.00:125][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.14-16.58.00:125][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8f (for the marketing name, search the web for "GPU Device Id")
+[2021.10.14-16.58.00:125][  0]LogWindows: EnumDisplayDevices:
+[2021.10.14-16.58.00:125][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.10.14-16.58.00:125][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.10.14-16.58.00:125][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.10.14-16.58.00:125][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.10.14-16.58.00:125][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti with Max-Q Design
+[2021.10.14-16.58.00:125][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.10.14-16.58.00:125][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.10.14-16.58.00:125][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2021.10.14-16.58.00:179][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.14-16.58.00:179][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.14-16.58.00:179][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.14-16.58.00:192][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.14-16.58.00:193][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.14-16.58.00:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.14-16.58.00:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.14-16.58.00:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.14-16.58.00:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.14-16.58.00:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.14-16.58.00:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.14-16.58.00:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.14-16.58.00:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.14-16.58.00:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.14-16.58.00:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.14-16.58.00:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.14-16.58.00:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.14-16.58.00:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.14-16.58.00:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.14-16.58.00:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.14-16.58.00:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.14-16.58.00:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.14-16.58.00:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.14-16.58.00:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.14-16.58.00:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.14-16.58.00:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.14-16.58.00:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.14-16.58.00:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.14-16.58.00:688][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.14-16.58.00:694][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.14-16.58.00:745][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.14-16.58.00:745][  0]LogShaderCompilers: Guid format shader working directory is -70 characters bigger than the processId version (../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Intermediate/Shaders/WorkingDirectory/16776/).
+[2021.10.14-16.58.00:745][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Oil/AppData/Local/Temp/UnrealShaderWorkingDir/5ECB819748E488B16A5D0C88B9F5F85D/'.
+[2021.10.14-16.58.00:745][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.14-16.58.00:745][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.14-16.58.01:490][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.14-16.58.01:536][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Oil/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.14-16.58.01:536][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Oil/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.14-16.58.01:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.14-16.58.01:536][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.14-16.58.01:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.14-16.58.01:536][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.14-16.58.01:547][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.14-16.58.01:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.14-16.58.01:548][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.14-16.58.01:555][  0]LogDerivedDataCache: Speed tests for C:/Users/Oil/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.14-16.58.01:555][  0]LogDerivedDataCache: Display: Performance to C:/Users/Oil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=310.38MBs, RandomWriteSpeed=239.62MBs. Assigned SpeedClass 'Local'
+[2021.10.14-16.58.01:555][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Oil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.14-16.58.01:556][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.14-16.58.01:556][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.14-16.58.01:603][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.14-16.58.01:603][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.14-16.58.01:627][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.10.14-16.58.01:961][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-16.58.01:961][  0]LogInit: Active device profile: [00000223B5331E00][00000223B4621580 49] Windows
+[2021.10.14-16.58.01:962][  0]LogInit: Profiles: [00000223B5331E00][00000223B4621580 49] Windows, [00000223B52F2300][00000223B46256C0 49] WindowsNoEditor, [00000223B5333900][00000223B4629800 49] WindowsServer, [00000223B52F0900][00000223B462D940 49] WindowsClient, [00000223B5330B00][00000223B4635AC0 49] IOS, [00000223B52F1400][00000223B4639C40 49] iPadAir, [00000223B5331700][00000223B463C100 49] iPadAir2, [00000223B528F400][00000223A95783C0 49] IPadPro, [00000223B528F500][00000223A9574400 49] iPadAir3, [00000223B5333800][00000223A957C580 49] iPadAir4, [00000223B528CE00][00000223A9580700 49] iPadMini2, [00000223B5330E00][00000223A9584880 49] iPadMini3, [00000223B528D300][00000223A9588A00 49] iPadMini4, [00000223B5330D00][00000223A958CB80 49] iPadMini5, [00000223B532AD00][00000223B5650E40 49] iPhone6, [00000223B532AE00][00000223A9590E80 49] iPodTouch6, [00000223B528FE00][00000223B5659140 49] iPhone7, [00000223B528FF00][00000223B5655180 49] iPodTouch7, [00000223B5328E00][00000223B565D300 49] iPhone5S, [00000223B528F100][00000223B5661480 49] iPhone6Plus, [00000223B5329200][00000223B5665600 49] iPhone6S, [00000223B528D200][00000223B4631740 49] iPhone6SPlus, [00000223B532A900][00000223B5669880 49] iPhone7Plus, [00000223B528F900][00000223B566D9C0 49] iPhoneSE, [00000223B532AF00][00000223B5675B40 49] iPhone8, [00000223B528F200][00000223B56C9CC0 49] iPhone8Plus, [00000223B532A100][00000223B56CC180 49] iPhoneX, [00000223B528DA00][00000223B56D0300 49] iPhoneXS, [00000223B5328500][00000223B56D4480 49] iPhoneXSMax, [00000223B528C400][00000223B56D8600 49] iPhoneXR, [00000223B532BF00][00000223B56DC780 49] iPhone11, [00000223B528C500][00000223B56E0900 49] iPhone11Pro, [00000223B532B100][00000223B56E4A80 49] iPhone11ProMax, [00000223B528F800][00000223B56F0C00 49] iPhoneSE2, [00000223B5329F00][00000223B56F4D80 49] iPhone12Mini, [00000223B528DC00][00000223B56F8F00 49] iPhone12, [00000223B5329900][00000223B56FD080 49] iPhone12Pro, [00000223B528F000][00000223B5701200 49] iPhone12ProMax, [00000223B5329B00][00000223B5705380 49] iPadPro105, [00000223B528E100][00000223B5709500 49] iPadPro129, [00000223B532AC00][00000223B570D680 49] iPadPro97, [00000223B5329100][00000223B56717C0 49] iPadPro2_129, [00000223B52F1C00][00000223B5711900 49] iPad5, [00000223B5328F00][00000223B5715A40 49] iPad6, [00000223B52F2A00][00000223B5719B80 49] iPad7, [00000223B5329600][00000223B5721D00 49] iPad8, [00000223B52F0400][00000223B57241C0 49] iPadPro11, [00000223B5328D00][00000223B5728340 49] iPadPro2_11, [00000223B52F3600][00000223B572C4C0 49] iPadPro3_129, [00000223B5329300][00000223B5730640 49] iPadPro4_129, [00000223B52F0E00][00000223B57347C0 49] AppleTV, [00000223B5329400][00000223B5738940 49] AppleTV4K, [00000223B52F2F00][00000223B573CAC0 49] TVOS, [00000223B528F700][00000223B5740C40 49] Mac, [00000223B52F0A00][00000223B5744DC0 49] MacClient, [00000223B528D900][00000223B5748F40 49] MacNoEditor, [00000223B52F2500][00000223B574D0C0 49] MacServer, [00000223B528DE00][00000223B5751240 49] Linux, [00000223B52F0C00][00000223B57553C0 49] LinuxNoEditor, [00000223B528C900][00000223B5759540 49] LinuxAArch64NoEditor, [00000223B52F3000][00000223B575D6C0 49] LinuxClient, [00000223B528E800][00000223B571D800 49] LinuxAArch64Client, [00000223B52F1000][00000223B5761940 49] LinuxServer, [00000223B528F300][00000223B5765A80 49] LinuxAArch64Server, [00000223B52F2000][00000223B5769BC0 49] Android, [00000223B528CF00][00000223B5771D40 49] Android_Low, [00000223B52F1300][00000223B5774200 49] Android_Mid, [00000223B528EC00][00000223B5778380 49] Android_High, [00000223B52F2400][00000223B577C500 49] Android_Default, [00000223B528D100][00000223B5780680 49] Android_Adreno4xx, [00000223B52F2200][00000223B5784800 49] Android_Adreno5xx_Low, [00000223B528EB00][00000223B5788980 49] Android_Adreno5xx, [00000223B52F3D00][00000223B578CB00 49] Android_Adreno6xx, [00000223B528C100][00000223B5790C80 49] Android_Adreno6xx_Vulkan, [00000223B52F1800][00000223B5794E00 49] Android_Mali_T6xx, [00000223B528D600][00000223B5798F80 49] Android_Mali_T7xx, [00000223B52F1200][00000223B579D100 49] Android_Mali_T8xx, [00000223B528C300][00000223B57A1280 49] Android_Mali_G71, [00000223B52F3200][00000223B57A5400 49] Android_Mali_G72, [00000223B528CB00][00000223B57A9580 49] Android_Mali_G72_Vulkan, [00000223B52F2E00][00000223B57AD700 49] Android_Mali_G76, [00000223B528D400][00000223B57B1880 49] Android_Mali_G76_Vulkan, [00000223B52F2900][00000223B576D9C0 49] Android_Mali_G77, [00000223B528C700][00000223B57B5B00 49] Android_Mali_G77_Vulkan, [00000223B52F3800][00000223B57B9C40 49] Android_Vulkan_SM5, [00000223B528E600][00000223B57C0100 49] Android_PowerVR_G6xxx, [00000223B52F3300][00000223B57C4280 49] Android_PowerVR_GT7xxx, [00000223B528DB00][00000223B57D6400 49] Android_PowerVR_GE8xxx, [00000223B52F3500][00000223B5800580 49] Android_PowerVR_GM9xxx, [00000223B528E400][00000223B5804700 49] Android_PowerVR_GM9xxx_Vulkan, [00000223B52F1500][00000223B5808880 49] Android_TegraK1, [00000223B528E000][00000223B580CA00 49] Android_Unknown_Vulkan, [00000223B52F2D00][00000223B5810B80 49] Lumin, [00000223B528D800][00000223B5814D00 49] Lumin_Desktop, [00000223B52F0B00][00000223B5818E80 49] HoloLens, 
+[2021.10.14-16.58.02:189][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.14-16.58.02:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.14-16.58.02:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.14-16.58.02:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.14-16.58.02:189][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.14-16.58.02:224][  0]LogNetVersion: MyProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1177340986)
+[2021.10.14-16.58.02:992][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.14-16.58.03:066][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.073266 seconds
+[2021.10.14-16.58.03:078][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.10.14-16.58.03:078][  0]LogUObjectAllocator: 4209680 out of 0 bytes used by permanent object pool.
+[2021.10.14-16.58.03:078][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.14-16.58.03:616][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.14-16.58.03:641][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.14-16.58.03:767][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.03:767][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.03:773][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.03:777][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.03:794][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.03:805][  0]LogUProjectInfo: Found projects:
+[2021.10.14-16.58.03:817][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.14-16.58.03:818][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.14-16.58.04:203][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.14-16.58.04:233][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.14-16.58.04:233][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.14-16.58.04:328][  0]LogCollectionManager: Loaded 0 collections in 0.003273 seconds
+[2021.10.14-16.58.04:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Collections/' took 0.01s
+[2021.10.14-16.58.04:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Developers/Oil/Collections/' took 0.00s
+[2021.10.14-16.58.04:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Collections/' took 0.00s
+[2021.10.14-16.58.04:375][  0]LogOcInput: OculusInput pre-init called
+[2021.10.14-16.58.04:397][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.14-16.58.04:397][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.14-16.58.04:502][  0]LogEngine: Initializing Engine...
+[2021.10.14-16.58.04:505][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.14-16.58.04:505][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.14-16.58.04:507][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.14-16.58.04:635][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.14-16.58.04:642][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.14-16.58.04:660][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.14-16.58.04:664][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.14-16.58.04:664][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-16.58.04:664][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-16.58.04:664][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-16.58.04:664][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-16.58.04:678][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-16.58.04:678][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-16.58.04:722][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.14-16.58.04:727][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-16.58.04:729][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-16.58.04:729][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-16.58.04:730][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-16.58.04:730][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-16.58.04:730][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-16.58.04:731][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-16.58.04:731][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-16.58.04:731][  0]LogInit: FAudioDevice initialized.
+[2021.10.14-16.58.04:731][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.14-16.58.04:731][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.14-16.58.04:770][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Oil/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.14-16.58.04:773][  0]LogInit: Texture streaming: Enabled
+[2021.10.14-16.58.04:784][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.10.14-16.58.04:787][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.14-16.58.04:787][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.14-16.58.04:789][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.14-16.58.04:805][  0]LogInit: Transaction tracking system initialized
+[2021.10.14-16.58.04:822][  0]BlueprintLog: New page: Editor Load
+[2021.10.14-16.58.04:898][  0]LocalizationService: Localization service is disabled
+[2021.10.14-16.58.04:917][  0]TimingProfiler: Initialize
+[2021.10.14-16.58.04:917][  0]TimingProfiler: OnSessionChanged
+[2021.10.14-16.58.04:917][  0]LoadingProfiler: Initialize
+[2021.10.14-16.58.04:918][  0]LoadingProfiler: OnSessionChanged
+[2021.10.14-16.58.04:918][  0]NetworkingProfiler: Initialize
+[2021.10.14-16.58.04:918][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.14-16.58.04:918][  0]MemoryProfiler: Initialize
+[2021.10.14-16.58.04:918][  0]MemoryProfiler: OnSessionChanged
+[2021.10.14-16.58.04:985][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.14-16.58.04:986][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.10.14-16.58.05:072][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.14-16.58.05:072][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.14-16.58.05:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/' took 0.00s
+[2021.10.14-16.58.05:401][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.14-16.58.05:405][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.05:405][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.793
+[2021.10.14-16.58.05:408][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.10.14-16.58.05:408][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-16.58.05:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.05:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-16.58.05:419][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.10.14-16.58.05:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.10.14-16.58.05:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.10.14-16.58.05:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.10.14-16.58.05:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.10.14-16.58.05:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.10.14-16.58.05:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.10.14-16.58.05:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.10.14-16.58.05:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.10.14-16.58.05:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.10.14-16.58.05:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.10.14-16.58.05:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.10.14-16.58.05:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.10.14-16.58.05:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.10.14-16.58.05:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.10.14-16.58.05:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.10.14-16.58.05:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.10.14-16.58.05:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.10.14-16.58.05:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Fire01.uasset"
+[2021.10.14-16.58.05:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.10.14-16.58.05:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.10.14-16.58.05:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.10.14-16.58.05:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Light01.uasset"
+[2021.10.14-16.58.05:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.10.14-16.58.05:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Light02.uasset"
+[2021.10.14-16.58.05:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.10.14-16.58.05:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.10.14-16.58.05:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.10.14-16.58.05:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.10.14-16.58.05:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.10.14-16.58.05:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.10.14-16.58.05:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.10.14-16.58.05:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.10.14-16.58.05:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.10.14-16.58.05:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Steam01.uasset"
+[2021.10.14-16.58.05:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.10.14-16.58.05:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.10.14-16.58.05:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.10.14-16.58.05:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.10.14-16.58.05:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.10.14-16.58.05:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.10.14-16.58.05:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.10.14-16.58.05:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.10.14-16.58.05:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.10.14-16.58.05:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.10.14-16.58.05:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.10.14-16.58.05:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.10.14-16.58.05:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.10.14-16.58.05:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.10.14-16.58.05:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.10.14-16.58.05:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.10.14-16.58.05:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.10.14-16.58.05:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.10.14-16.58.05:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.10.14-16.58.05:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.10.14-16.58.05:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.10.14-16.58.05:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.10.14-16.58.05:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Maps/StarterMap.umap"
+[2021.10.14-16.58.05:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.10.14-16.58.05:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.10.14-16.58.05:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.10.14-16.58.05:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.10.14-16.58.05:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.10.14-16.58.05:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.10.14-16.58.05:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.10.14-16.58.05:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.10.14-16.58.05:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.10.14-16.58.05:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.10.14-16.58.05:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.10.14-16.58.05:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.10.14-16.58.05:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.10.14-16.58.05:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.10.14-16.58.05:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.10.14-16.58.05:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.10.14-16.58.05:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.10.14-16.58.05:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.10.14-16.58.05:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.10.14-16.58.05:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.10.14-16.58.05:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.10.14-16.58.05:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.10.14-16.58.05:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.10.14-16.58.05:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.10.14-16.58.05:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.10.14-16.58.05:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.10.14-16.58.05:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.10.14-16.58.05:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.10.14-16.58.05:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.10.14-16.58.05:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.10.14-16.58.05:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.10.14-16.58.05:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.10.14-16.58.05:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.10.14-16.58.05:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.10.14-16.58.05:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.10.14-16.58.05:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.10.14-16.58.06:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.10.14-16.58.06:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.10.14-16.58.06:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.10.14-16.58.06:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.10.14-16.58.06:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.10.14-16.58.06:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.10.14-16.58.06:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.10.14-16.58.06:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.10.14-16.58.06:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.10.14-16.58.06:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.10.14-16.58.06:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.10.14-16.58.06:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.10.14-16.58.06:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.10.14-16.58.06:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.10.14-16.58.06:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.10.14-16.58.06:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.10.14-16.58.06:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.10.14-16.58.06:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.10.14-16.58.06:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.10.14-16.58.06:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.10.14-16.58.06:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.10.14-16.58.06:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.10.14-16.58.06:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.10.14-16.58.06:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.10.14-16.58.06:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.10.14-16.58.06:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.10.14-16.58.06:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.10.14-16.58.06:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.10.14-16.58.06:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.10.14-16.58.06:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Door.uasset"
+[2021.10.14-16.58.06:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.10.14-16.58.06:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.10.14-16.58.06:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.10.14-16.58.06:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.10.14-16.58.06:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.10.14-16.58.06:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.10.14-16.58.06:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.10.14-16.58.06:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.10.14-16.58.06:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.10.14-16.58.06:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.10.14-16.58.06:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.10.14-16.58.06:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.10.14-16.58.06:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.10.14-16.58.06:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.10.14-16.58.06:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.10.14-16.58.06:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.10.14-16.58.06:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.10.14-16.58.06:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.10.14-16.58.06:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.10.14-16.58.06:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.10.14-16.58.06:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.10.14-16.58.06:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.10.14-16.58.06:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.10.14-16.58.06:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.10.14-16.58.06:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.10.14-16.58.06:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.10.14-16.58.06:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.10.14-16.58.06:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.10.14-16.58.06:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.10.14-16.58.06:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.10.14-16.58.06:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.10.14-16.58.06:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.10.14-16.58.06:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.10.14-16.58.06:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.10.14-16.58.06:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.10.14-16.58.06:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.10.14-16.58.06:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.10.14-16.58.06:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.10.14-16.58.06:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.10.14-16.58.06:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.10.14-16.58.06:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.10.14-16.58.06:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.10.14-16.58.06:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.10.14-16.58.06:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.10.14-16.58.06:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.10.14-16.58.06:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.10.14-16.58.06:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.10.14-16.58.06:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.10.14-16.58.06:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.10.14-16.58.06:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.10.14-16.58.06:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.10.14-16.58.06:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.10.14-16.58.06:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.10.14-16.58.06:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.10.14-16.58.06:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.10.14-16.58.06:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.10.14-16.58.06:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.10.14-16.58.06:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.10.14-16.58.06:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.10.14-16.58.06:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.10.14-16.58.06:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.10.14-16.58.06:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.10.14-16.58.06:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.10.14-16.58.06:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.10.14-16.58.06:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.10.14-16.58.06:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.10.14-16.58.06:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.10.14-16.58.06:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.10.14-16.58.06:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.10.14-16.58.06:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.10.14-16.58.06:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.10.14-16.58.06:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.10.14-16.58.06:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.10.14-16.58.06:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.10.14-16.58.06:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.10.14-16.58.06:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.10.14-16.58.06:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.10.14-16.58.06:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.10.14-16.58.06:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.10.14-16.58.06:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.10.14-16.58.06:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.10.14-16.58.06:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.10.14-16.58.07:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.10.14-16.58.07:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.10.14-16.58.07:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.10.14-16.58.07:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.10.14-16.58.07:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.10.14-16.58.07:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.10.14-16.58.07:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.10.14-16.58.07:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.10.14-16.58.07:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.10.14-16.58.07:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.10.14-16.58.07:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.10.14-16.58.07:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.10.14-16.58.07:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.10.14-16.58.07:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.10.14-16.58.07:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.10.14-16.58.07:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.10.14-16.58.07:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.10.14-16.58.07:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.10.14-16.58.07:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.10.14-16.58.07:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.10.14-16.58.07:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.10.14-16.58.07:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.10.14-16.58.07:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.10.14-16.58.07:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.10.14-16.58.07:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.10.14-16.58.07:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.10.14-16.58.07:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.10.14-16.58.07:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.10.14-16.58.07:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.10.14-16.58.07:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.10.14-16.58.07:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.10.14-16.58.07:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.10.14-16.58.07:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.10.14-16.58.07:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.10.14-16.58.07:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.10.14-16.58.07:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.10.14-16.58.07:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.10.14-16.58.07:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.10.14-16.58.07:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.10.14-16.58.07:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.10.14-16.58.07:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.10.14-16.58.07:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.10.14-16.58.07:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.10.14-16.58.07:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.10.14-16.58.07:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.10.14-16.58.07:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.10.14-16.58.07:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.10.14-16.58.07:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.10.14-16.58.07:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.10.14-16.58.07:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.10.14-16.58.07:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.10.14-16.58.07:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.10.14-16.58.07:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.10.14-16.58.07:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.10.14-16.58.07:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.10.14-16.58.07:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.10.14-16.58.07:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.10.14-16.58.07:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.10.14-16.58.07:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.10.14-16.58.07:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.10.14-16.58.07:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.10.14-16.58.07:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.10.14-16.58.07:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.10.14-16.58.07:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.10.14-16.58.07:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.10.14-16.58.08:092][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.10.14-16.58.08:408][  0]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Floor_400x400EF540F414568CC50024060B124766542.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.10.14-16.58.08:409][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.10.14-16.58.08:410][  0]LightingResults: New page: Lighting Build
+[2021.10.14-16.58.08:410][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-16.58.08:410][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-16.58.08:411][  0]MapCheck: New page: Map Check
+[2021.10.14-16.58.08:411][  0]LightingResults: New page: Lighting Build
+[2021.10.14-16.58.08:417][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.14-16.58.08:647][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.10.14-16.58.08:734][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-16.58.08:735][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-16.58.08:748][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.14-16.58.08:755][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.10.14-16.58.08:756][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.14-16.58.08:756][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2021.10.14-16.58.08:756][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.347
+[2021.10.14-16.58.08:758][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.146
+[2021.10.14-16.58.08:937][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-16.58.08:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-16.58.08:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-16.58.08:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-16.58.09:011][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3601 classes and 859 folders.
+[2021.10.14-16.58.09:018][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-16.58.09:019][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-16.58.09:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-16.58.09:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.10.14-16.58.09:020][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.14-16.58.09:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.14-16.58.09:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.10.14-16.58.09:021][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.14-16.58.09:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.14-16.58.09:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.10.14-16.58.09:021][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-16.58.09:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-16.58.09:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.10.14-16.58.09:022][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.14-16.58.09:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.14-16.58.09:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.10.14-16.58.09:023][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.14-16.58.09:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.14-16.58.09:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.10.14-16.58.09:023][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.14-16.58.09:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.14-16.58.09:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.10.14-16.58.09:024][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.14-16.58.09:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.14-16.58.09:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.10.14-16.58.09:024][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-16.58.09:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-16.58.09:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.10.14-16.58.09:025][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.14-16.58.09:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.14-16.58.09:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.10.14-16.58.09:025][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.14-16.58.09:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.14-16.58.09:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.10.14-16.58.09:026][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-16.58.09:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-16.58.09:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.10.14-16.58.09:027][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-16.58.09:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-16.58.09:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.10.14-16.58.09:027][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-16.58.09:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-16.58.09:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.10.14-16.58.09:028][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.14-16.58.09:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.14-16.58.09:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.14-16.58.09:029][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-16.58.09:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-16.58.09:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.14-16.58.09:029][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.14-16.58.09:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.14-16.58.09:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.14-16.58.09:031][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-16.58.09:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-16.58.09:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.14-16.58.09:032][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-16.58.09:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-16.58.09:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.10.14-16.58.09:032][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-16.58.09:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-16.58.09:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.10.14-16.58.09:033][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-16.58.09:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-16.58.09:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.14-16.58.09:033][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-16.58.09:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-16.58.09:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.10.14-16.58.09:034][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.14-16.58.09:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.14-16.58.09:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.10.14-16.58.09:035][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-16.58.09:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-16.58.09:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.10.14-16.58.09:035][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-16.58.09:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-16.58.09:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.10.14-16.58.09:036][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.14-16.58.09:036][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-16.58.09:036][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.14-16.58.09:036][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.10.14-16.58.09:076][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-16.58.09:082][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.10.14-16.58.09:313][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.14-16.58.09:315][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.14-16.58.09:328][  0]LogSlate: Took 0.006925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.14-16.58.09:446][  0]LogRenderer: Reallocating scene render targets to support 904x404 Format 10 NumSamples 1 (Frame:1).
+[2021.10.14-16.58.09:502][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.14-16.58.09:572][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-16.58.09:572][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.10.14-16.58.09:572][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.10.14-16.58.09:572][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.10.14-16.58.09:572][  0]LogLoad: (Engine Initialization) Total time: 10.96 seconds
+[2021.10.14-16.58.09:572][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.14-16.58.09:572][  0]LogInit: First time updating LLM stats...
+[2021.10.14-16.58.09:590][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.10.14-16.58.09:590][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.10.14-16.58.09:614][  0]LogAssetRegistry: Asset discovery search completed in 7.9872 seconds
+[2021.10.14-16.58.09:615][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.10.14-16.58.09:616][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9DA4D991-4941-CDD8-724C-F798FA83A7DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: request failed, libcurl error: 0 (No error)
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x223931b3eb0 [can pipeline])
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.205.212.151) port 443 (#0))
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 7 (Closing connection 0)
+[2021.10.14-17.02.10:604][317]LogHttp: Warning: 00000223DCCFD600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.10.14-17.02.10:937][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9DA4D991-4941-CDD8-724C-F798FA83A7DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream

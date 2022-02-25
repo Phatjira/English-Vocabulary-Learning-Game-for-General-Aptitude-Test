@@ -1,0 +1,1450 @@
+﻿Log file open, 02/25/22 15:02:02
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238031
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.02.25-08.02.02:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.25-08.02.02:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.02.25-08.02.02:733][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.02.25-08.02.02:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.25-08.02.02:738][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.25-08.02.02:739][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.25-08.02.02:739][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.25-08.02.02:739][  0]LogHAL: Display: Platform has ~ 16 GB [17014837248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.25-08.02.02:739][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.25-08.02.02:739][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.25-08.02.02:739][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.25-08.02.02:740][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.02.25-08.02.02:740][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Config/Windows/Editor.ini]
+[2022.02.25-08.02.02:740][  0]LogInit: Computer: DESKTOP-OGCOFB0
+[2022.02.25-08.02.02:740][  0]LogInit: User: Oil
+[2022.02.25-08.02.02:740][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.25-08.02.02:740][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.25-08.02.02:741][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.02.25-08.02.02:741][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.25-08.02.02:741][  0]LogMemory: Process Physical Memory: 139.66 MB used, 139.66 MB peak
+[2022.02.25-08.02.02:741][  0]LogMemory: Process Virtual Memory: 120.14 MB used, 120.14 MB peak
+[2022.02.25-08.02.02:741][  0]LogMemory: Physical Memory: 7871.59 MB used,  8355.02 MB free, 16226.61 MB total
+[2022.02.25-08.02.02:741][  0]LogMemory: Virtual Memory: 134199752.00 MB used,  17974.29 MB free, 134217728.00 MB total
+[2022.02.25-08.02.02:744][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.25-08.02.02:763][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.25-08.02.02:764][  0]LogInit: Using OS detected language (en-US).
+[2022.02.25-08.02.02:764][  0]LogInit: Using OS detected locale (en-GB).
+[2022.02.25-08.02.02:768][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.25-08.02.02:937][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.25-08.02.02:945][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.25-08.02.02:958][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.25-08.02.02:958][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.25-08.02.03:323][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.25-08.02.03:323][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.25-08.02.03:323][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.25-08.02.03:323][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.25-08.02.03:424][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti with Max-Q Design' (Feature Level 11_0)
+[2022.02.25-08.02.03:424][  0]LogD3D11RHI:       4021/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.25-08.02.03:455][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.02.25-08.02.03:455][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.02.25-08.02.03:458][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.25-08.02.03:458][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.25-08.02.03:458][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.25-08.02.03:577][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.25-08.02.03:577][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8f (for the marketing name, search the web for "GPU Device Id")
+[2022.02.25-08.02.03:577][  0]LogWindows: EnumDisplayDevices:
+[2022.02.25-08.02.03:577][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.02.25-08.02.03:578][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.25-08.02.03:578][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.25-08.02.03:578][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.02.25-08.02.03:578][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti with Max-Q Design
+[2022.02.25-08.02.03:578][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.02.25-08.02.03:578][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.02.25-08.02.03:578][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2022.02.25-08.02.03:623][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.25-08.02.03:623][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.25-08.02.03:623][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.25-08.02.03:638][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.25-08.02.03:639][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.25-08.02.03:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.25-08.02.03:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.25-08.02.03:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.25-08.02.03:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.25-08.02.03:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.25-08.02.03:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.25-08.02.04:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.25-08.02.04:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.25-08.02.04:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.25-08.02.04:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.25-08.02.04:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.25-08.02.04:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.25-08.02.04:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.25-08.02.04:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.25-08.02.04:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.25-08.02.04:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.25-08.02.04:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.25-08.02.04:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.25-08.02.04:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.25-08.02.04:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.25-08.02.04:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.25-08.02.04:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.25-08.02.04:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.25-08.02.04:131][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.25-08.02.04:139][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.25-08.02.04:208][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.25-08.02.04:208][  0]LogShaderCompilers: Guid format shader working directory is -70 characters bigger than the processId version (../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Intermediate/Shaders/WorkingDirectory/13788/).
+[2022.02.25-08.02.04:209][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Oil/AppData/Local/Temp/UnrealShaderWorkingDir/7DF8E61C4ED76D25A3AC9483BB67D4AF/'.
+[2022.02.25-08.02.04:209][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.25-08.02.04:209][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.25-08.02.05:447][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.25-08.02.05:508][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Oil/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.25-08.02.05:508][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Oil/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.25-08.02.05:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.25-08.02.05:508][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.25-08.02.05:509][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.25-08.02.05:509][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.25-08.02.05:521][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.25-08.02.05:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.25-08.02.05:521][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.25-08.02.05:530][  0]LogDerivedDataCache: Speed tests for C:/Users/Oil/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.25-08.02.05:530][  0]LogDerivedDataCache: Display: Performance to C:/Users/Oil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1665.51MBs, RandomWriteSpeed=128.73MBs. Assigned SpeedClass 'Local'
+[2022.02.25-08.02.05:532][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Oil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.25-08.02.05:532][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.25-08.02.05:532][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.25-08.02.05:618][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.25-08.02.05:619][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.25-08.02.05:648][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.02.25-08.02.05:945][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.25-08.02.05:946][  0]LogInit: Active device profile: [000001A7712E9D00][000001A753160740 49] Windows
+[2022.02.25-08.02.05:946][  0]LogInit: Profiles: [000001A7712E9D00][000001A753160740 49] Windows, [000001A7712ABF00][000001A7531688C0 49] WindowsNoEditor, [000001A7712EB500][000001A75316CA40 49] WindowsServer, [000001A7712A8C00][000001A7703A8BC0 49] WindowsClient, [000001A7712E8E00][000001A7703ACD40 49] IOS, [000001A7712A8900][000001A7703B0EC0 49] iPadAir, [000001A7712EAC00][000001A7703B5040 49] iPadAir2, [000001A77124F200][000001A7703BD300 49] IPadPro, [000001A77124F300][000001A7703B9340 49] iPadAir3, [000001A7712E9400][000001A7703C14C0 49] iPadAir4, [000001A77124E800][000001A7703C5640 49] iPadMini2, [000001A7712EB100][000001A753165780 49] iPadMini3, [000001A77124D500][000001A7703C98C0 49] iPadMini4, [000001A7712E9000][000001A7703CDA00 49] iPadMini5, [000001A7712E2B00][000001A7703D9C80 49] iPhone6, [000001A7712E2C00][000001A7703D1CC0 49] iPodTouch6, [000001A77124FA00][000001A7703E02C0 49] iPhone7, [000001A77124F800][000001A7703DC300 49] iPodTouch7, [000001A7712E2800][000001A7703E4480 49] iPhone5S, [000001A77124E400][000001A7703E8600 49] iPhone6Plus, [000001A7712E1400][000001A7703EC780 49] iPhone6S, [000001A77124C600][000001A7703F0900 49] iPhone6SPlus, [000001A7712E2900][000001A7703F4A80 49] iPhone7Plus, [000001A77124F500][000001A7703F8C00 49] iPhoneSE, [000001A7712E3000][000001A7703FCD80 49] iPhone8, [000001A77124FE00][000001A770400F00 49] iPhone8Plus, [000001A7712E1F00][000001A770405080 49] iPhoneX, [000001A77124DF00][000001A770409200 49] iPhoneXS, [000001A7712E0400][000001A77040D380 49] iPhoneXSMax, [000001A77124F000][000001A770411500 49] iPhoneXR, [000001A7712E1100][000001A770415680 49] iPhone11, [000001A77124DA00][000001A7703D57C0 49] iPhone11Pro, [000001A7712E3600][000001A770419900 49] iPhone11ProMax, [000001A77124EB00][000001A77041DA40 49] iPhoneSE2, [000001A7712E3800][000001A770421B80 49] iPhone12Mini, [000001A77124E900][000001A770429D00 49] iPhone12, [000001A7712E1C00][000001A77042C1C0 49] iPhone12Pro, [000001A77124E700][000001A770430340 49] iPhone12ProMax, [000001A7712E0C00][000001A7704344C0 49] iPadPro105, [000001A77124E100][000001A770438640 49] iPadPro129, [000001A77124D600][000001A77043C7C0 49] iPadPro97, [000001A7712A9A00][000001A770440940 49] iPadPro2_129, [000001A77124C900][000001A770444AC0 49] iPad5, [000001A7712AA400][000001A770448C40 49] iPad6, [000001A77124DE00][000001A77044CDC0 49] iPad7, [000001A7712AB800][000001A770450F40 49] iPad8, [000001A77124D400][000001A7704550C0 49] iPadPro11, [000001A7712AB900][000001A770459240 49] iPadPro2_11, [000001A7712AA000][000001A77045D3C0 49] iPadPro3_129, [000001A7712E3900][000001A770461540 49] iPadPro4_129, [000001A7712A9900][000001A7704656C0 49] AppleTV, [000001A7712E3D00][000001A770469840 49] AppleTV4K, [000001A7712A8E00][000001A770425980 49] TVOS, [000001A7712E3500][000001A77046DAC0 49] Mac, [000001A7712AB400][000001A770471C00 49] MacClient, [000001A7712E1200][000001A7704780C0 49] MacNoEditor, [000001A77124F900][000001A77047C240 49] MacServer, [000001A7712E2300][000001A7704803C0 49] Linux, [000001A77124C400][000001A770484540 49] LinuxAArch64, [000001A7712E0D00][000001A7704886C0 49] LinuxNoEditor, [000001A77124C100][000001A77048C840 49] LinuxAArch64NoEditor, [000001A7712E3F00][000001A7704969C0 49] LinuxClient, [000001A77124F100][000001A77049AB40 49] LinuxAArch64Client, [000001A7712E1700][000001A77049ECC0 49] LinuxServer, [000001A77124FC00][000001A7704B0E40 49] LinuxAArch64Server, [000001A7712E2100][000001A7704B4FC0 49] Android, [000001A77124ED00][000001A7704B9140 49] Android_Low, [000001A7712E2E00][000001A7704BD2C0 49] Android_Mid, [000001A77124E600][000001A7704C1440 49] Android_High, [000001A7712E0500][000001A7704C55C0 49] Android_Default, [000001A77124E500][000001A7704C9740 49] Android_Adreno4xx, [000001A7712E1000][000001A7704CD8C0 49] Android_Adreno5xx_Low, [000001A77124E000][000001A770475A00 49] Android_Adreno5xx, [000001A7712E0E00][000001A7704D1B40 49] Android_Adreno6xx, [000001A77124CD00][000001A7704D5C80 49] Android_Adreno6xx_Vulkan, [000001A7712E2500][000001A770508100 49] Android_Mali_T6xx, [000001A77124C500][000001A771D26280 49] Android_Mali_T7xx, [000001A7712E2400][000001A772134400 49] Android_Mali_T8xx, [000001A77124CB00][000001A771D52580 49] Android_Mali_G71, [000001A7712E1800][000001A771D56700 49] Android_Mali_G72, [000001A77124D000][000001A771D5A880 49] Android_Mali_G72_Vulkan, [000001A7712E0A00][000001A771D5EA00 49] Android_Mali_G76, [000001A77124D900][000001A771D62B80 49] Android_Mali_G76_Vulkan, [000001A7712E2600][000001A771D6AD00 49] Android_Mali_G77, [000001A77124DD00][000001A771D6EE80 49] Android_Mali_G77_Vulkan, [000001A7712E3100][000001A771D73000 49] Android_Vulkan_SM5, [000001A77124FB00][000001A771D7B180 49] Android_PowerVR_G6xxx, [000001A7712E0F00][000001A771D85300 49] Android_PowerVR_GT7xxx, [000001A77124EF00][000001A771D93480 49] Android_PowerVR_GE8xxx, [000001A7712E3200][000001A771D97600 49] Android_PowerVR_GM9xxx, [000001A77124C800][000001A771DA7780 49] Android_PowerVR_GM9xxx_Vulkan, [000001A7712E3B00][000001A771DAB900 49] Android_TegraK1, [000001A77124F700][000001A772131A40 49] Android_Unknown_Vulkan, [000001A7712E1900][000001A771DAFB80 49] Lumin, [000001A77124D200][000001A771DB3CC0 49] Lumin_Desktop, [000001A7712E3400][000001A771DB6140 49] HoloLens, 
+[2022.02.25-08.02.06:072][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.25-08.02.06:072][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.25-08.02.06:072][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.25-08.02.06:072][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.25-08.02.06:072][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.25-08.02.06:090][  0]LogNetVersion: MyProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1177340986)
+[2022.02.25-08.02.06:606][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.25-08.02.06:698][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.092024 seconds
+[2022.02.25-08.02.06:703][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.02.25-08.02.06:704][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.02.25-08.02.06:704][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.25-08.02.07:222][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.25-08.02.07:227][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.25-08.02.07:363][  0]SourceControl: Source control is disabled
+[2022.02.25-08.02.07:363][  0]SourceControl: Source control is disabled
+[2022.02.25-08.02.07:367][  0]SourceControl: Source control is disabled
+[2022.02.25-08.02.07:374][  0]SourceControl: Source control is disabled
+[2022.02.25-08.02.07:380][  0]SourceControl: Source control is disabled
+[2022.02.25-08.02.07:517][  0]LogUProjectInfo: Found projects:
+[2022.02.25-08.02.07:524][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.25-08.02.07:525][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.25-08.02.07:565][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.25-08.02.07:588][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.25-08.02.07:588][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.25-08.02.07:691][  0]LogOcInput: OculusInput pre-init called
+[2022.02.25-08.02.07:701][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.25-08.02.07:701][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.25-08.02.07:709][  0]LogCollectionManager: Loaded 0 collections in 0.001553 seconds
+[2022.02.25-08.02.07:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Collections/' took 0.00s
+[2022.02.25-08.02.07:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Developers/Oil/Collections/' took 0.00s
+[2022.02.25-08.02.07:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Collections/' took 0.00s
+[2022.02.25-08.02.07:761][  0]LogEngine: Initializing Engine...
+[2022.02.25-08.02.07:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.25-08.02.07:762][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.25-08.02.07:765][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.25-08.02.07:861][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.25-08.02.07:869][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.25-08.02.07:884][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.25-08.02.07:892][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.25-08.02.07:892][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.25-08.02.07:892][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.25-08.02.07:892][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.25-08.02.07:892][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.25-08.02.07:906][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.25-08.02.07:906][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.25-08.02.07:957][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.25-08.02.07:958][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.25-08.02.07:959][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.25-08.02.07:959][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.25-08.02.07:960][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.25-08.02.07:960][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.25-08.02.07:960][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.25-08.02.07:961][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.25-08.02.07:961][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.25-08.02.07:961][  0]LogInit: FAudioDevice initialized.
+[2022.02.25-08.02.07:961][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.25-08.02.07:961][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.25-08.02.08:007][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/Oil/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.25-08.02.08:008][  0]LogInit: Texture streaming: Enabled
+[2022.02.25-08.02.08:024][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.02.25-08.02.08:028][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.25-08.02.08:028][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.25-08.02.08:030][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.25-08.02.08:062][  0]LogInit: Transaction tracking system initialized
+[2022.02.25-08.02.08:085][  0]BlueprintLog: New page: Editor Load
+[2022.02.25-08.02.08:156][  0]LocalizationService: Localization service is disabled
+[2022.02.25-08.02.08:184][  0]TimingProfiler: Initialize
+[2022.02.25-08.02.08:184][  0]TimingProfiler: OnSessionChanged
+[2022.02.25-08.02.08:184][  0]LoadingProfiler: Initialize
+[2022.02.25-08.02.08:184][  0]LoadingProfiler: OnSessionChanged
+[2022.02.25-08.02.08:184][  0]NetworkingProfiler: Initialize
+[2022.02.25-08.02.08:184][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.25-08.02.08:184][  0]MemoryProfiler: Initialize
+[2022.02.25-08.02.08:184][  0]MemoryProfiler: OnSessionChanged
+[2022.02.25-08.02.08:650][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.25-08.02.08:651][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.25-08.02.08:799][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.25-08.02.08:799][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.25-08.02.09:112][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/' took 0.03s
+[2022.02.25-08.02.09:573][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.25-08.02.09:580][  0]SourceControl: Source control is disabled
+[2022.02.25-08.02.09:789][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.25-08.02.19:640][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.02.25-08.02.20:749][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.02.25-08.02.20:760][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Monopoly/MAP/ppp3
+[2022.02.25-08.02.20:785][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.025
+[2022.02.25-08.02.20:803][  0]LightingResults: New page: Lighting Build
+[2022.02.25-08.02.20:804][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-08.02.20:805][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-08.02.20:805][  0]MapCheck: New page: Map Check
+[2022.02.25-08.02.20:805][  0]LightingResults: New page: Lighting Build
+[2022.02.25-08.02.20:822][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.25-08.02.23:159][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_DialogueSelectionTypes.e_DialogueSelectionTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2022.02.25-08.02.26:239][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_OptionCategories.e_OptionCategories' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2022.02.25-08.02.26:639][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.02.25-08.02.26:640][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.25-08.02.26:693][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.25-08.02.26:716][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.02.25-08.02.26:717][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.25-08.02.26:717][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2022.02.25-08.02.26:717][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.931
+[2022.02.25-08.02.26:720][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.961
+[2022.02.25-08.02.26:876][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-08.02.26:887][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-08.02.26:898][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-08.02.26:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-08.02.26:975][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0208 seconds. Added 3601 classes and 859 folders.
+[2022.02.25-08.02.26:982][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.25-08.02.27:028][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.25-08.02.27:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.25-08.02.27:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.02.25-08.02.27:054][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.25-08.02.27:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.25-08.02.27:054][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.02.25-08.02.27:070][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.25-08.02.27:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.25-08.02.27:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.02.25-08.02.27:088][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.25-08.02.27:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.25-08.02.27:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.25-08.02.27:104][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.25-08.02.27:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.25-08.02.27:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.02.25-08.02.27:117][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.25-08.02.27:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.25-08.02.27:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.02.25-08.02.27:134][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.25-08.02.27:134][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:134][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.25-08.02.27:134][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.02.25-08.02.27:149][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.25-08.02.27:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.25-08.02.27:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.02.25-08.02.27:167][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.25-08.02.27:167][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.25-08.02.27:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.02.25-08.02.27:180][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.25-08.02.27:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.25-08.02.27:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.02.25-08.02.27:193][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.25-08.02.27:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.25-08.02.27:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.02.25-08.02.27:207][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.25-08.02.27:207][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:207][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.25-08.02.27:207][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.02.25-08.02.27:220][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.25-08.02.27:220][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:220][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.25-08.02.27:220][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.02.25-08.02.27:234][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.25-08.02.27:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.25-08.02.27:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.02.25-08.02.27:248][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.25-08.02.27:248][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.25-08.02.27:248][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.02.25-08.02.27:265][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.25-08.02.27:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.25-08.02.27:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.02.25-08.02.27:279][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.25-08.02.27:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.25-08.02.27:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2022.02.25-08.02.27:294][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.25-08.02.27:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.25-08.02.27:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2022.02.25-08.02.27:310][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.25-08.02.27:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.25-08.02.27:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2022.02.25-08.02.27:334][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.25-08.02.27:334][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:334][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.25-08.02.27:334][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2022.02.25-08.02.27:347][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.25-08.02.27:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.25-08.02.27:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000134
+[2022.02.25-08.02.27:360][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.25-08.02.27:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.25-08.02.27:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2022.02.25-08.02.27:373][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.25-08.02.27:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.25-08.02.27:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2022.02.25-08.02.27:387][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.25-08.02.27:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.25-08.02.27:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2022.02.25-08.02.27:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.25-08.02.27:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.25-08.02.27:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000156
+[2022.02.25-08.02.27:417][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.25-08.02.27:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.25-08.02.27:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.25-08.02.27:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2022.02.25-08.02.28:170][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.25-08.02.28:177][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.02.25-08.02.28:437][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.25-08.02.28:437][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.02.25-08.02.28:437][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.02.25-08.02.28:437][  0]LogLoad: (Engine Initialization) Total time: 26.68 seconds
+[2022.02.25-08.02.28:437][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.25-08.02.28:437][  0]LogInit: First time updating LLM stats...
+[2022.02.25-08.02.28:496][  0]LogAssetRegistry: Asset discovery search completed in 22.8492 seconds
+[2022.02.25-08.02.28:497][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.02.25-08.02.28:558][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.25-08.02.28:568][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.25-08.02.28:583][  0]LogSlate: Took 0.010838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.25-08.02.28:781][  0]LogRenderer: Reallocating scene render targets to support 412x416 Format 10 NumSamples 1 (Frame:1).
+[2022.02.25-08.02.28:781][  0]LogSlate: Took 0.006997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.25-08.02.29:465][ 42]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.25-08.02.50:826][197]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-08.02.51:730][197]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.02.25-08.02.52:908][197]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.25-08.04.52:099][713]LogSlate: Took 0.009921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.25-08.05.30:234][540]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-08.05.30:290][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.25-08.05.30:360][540]LogSlate: Took 0.009203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.25-08.05.31:061][609]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid3B776E0343047E3E74229298F673902A.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-08.05.31:077][609]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-08.05.31:077][609]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-08.05.55:256][618]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-08.05.55:302][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.25-08.05.55:689][644]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridABB0446C465F13B9F2DF1DBEAAA129E1.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-08.05.55:704][644]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-08.05.55:704][644]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-08.06.13:362][372]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-08.06.13:406][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.02.25-08.06.13:819][383]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid68D3F2AD491D700D59DD25A3F806F6FB.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-08.06.13:831][383]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-08.06.13:831][383]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-08.06.26:425][562]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.25-08.06.53:503][702]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-08.06.53:562][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.25-08.06.54:088][723]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridD5E8E10D4AF493F125D9E790C1A9742F.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-08.06.54:101][723]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-08.06.54:101][723]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: request failed, libcurl error: 0 (No error)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a74e67feb0 [can pipeline])
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.236.74.203) port 443 (#0))
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 7 (Closing connection 0)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: 000001A745488F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.25-08.28.13:466][268]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: request failed, libcurl error: 0 (No error)
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a74e67dc60 [can pipeline])
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.189.214) port 443 (#1))
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 7 (Closing connection 1)
+[2022.02.25-08.32.13:335][143]LogHttp: Warning: 000001A741592400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.25-08.32.13:343][144]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.25-08.50.13:343][878]LogHttp: Warning: 000001A7415A0F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.25-08.50.13:343][878]LogHttp: Warning: 000001A7415A0F00: request failed, libcurl error: 0 (No error)
+[2022.02.25-08.50.13:343][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a74e67d750 [can pipeline])
+[2022.02.25-08.50.13:343][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.02.25-08.50.13:343][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.159.170) port 443 (#2))
+[2022.02.25-08.50.13:344][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.25-08.50.13:344][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.25-08.50.13:344][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.25-08.50.13:344][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.25-08.50.13:344][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 7 (Closing connection 2)
+[2022.02.25-08.50.13:344][878]LogHttp: Warning: 000001A7415A0F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.25-08.50.13:344][878]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.25-09.17.23:961][764]LogContentBrowser: Attempting asset rename: BP_Grid -> BP_Grid
+[2022.02.25-09.17.25:227][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.02.25-09.17.25:269][872]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Monopoly/MAP/pp.pp
+[2022.02.25-09.17.25:269][872]Cmd: MAP LOAD FILE="../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/MAP/pp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.25-09.17.25:269][872]LightingResults: New page: Lighting Build
+[2022.02.25-09.17.25:269][872]LoadErrors: New page: Loading map: pp.umap
+[2022.02.25-09.17.25:271][872]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-09.17.25:271][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-09.17.25:271][872]MapCheck: New page: Map Check
+[2022.02.25-09.17.25:271][872]LightingResults: New page: Lighting Build
+[2022.02.25-09.17.25:289][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.25-09.17.25:295][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.02.25-09.17.25:296][872]LogAudio: Display: Audio Device (ID: 1) registered with world 'pp'.
+[2022.02.25-09.17.25:369][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.25-09.17.25:369][872]LogAIModule: Creating AISystem for world pp
+[2022.02.25-09.17.25:391][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.02.25-09.17.25:403][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.25-09.17.25:403][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2022.02.25-09.17.25:403][872]LogFileHelpers: Loading map 'pp' took 0.134
+[2022.02.25-09.17.28:030][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.25-09.17.28:061][ 52]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Monopoly/MAP/place.place
+[2022.02.25-09.17.28:062][ 52]LightingResults: New page: Lighting Build
+[2022.02.25-09.17.28:062][ 52]LoadErrors: New page: Loading map: place.umap
+[2022.02.25-09.17.28:062][ 52]LogWorld: UWorld::CleanupWorld for pp, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-09.17.28:062][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-09.17.28:062][ 52]MapCheck: New page: Map Check
+[2022.02.25-09.17.28:062][ 52]LightingResults: New page: Lighting Build
+[2022.02.25-09.17.28:081][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.25-09.17.28:083][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.02.25-09.17.28:084][ 52]LogAudio: Display: Audio Device (ID: 1) registered with world 'place'.
+[2022.02.25-09.17.28:137][ 52]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.25-09.17.28:137][ 52]LogAIModule: Creating AISystem for world place
+[2022.02.25-09.17.28:158][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.25-09.17.28:169][ 52]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.25-09.17.28:169][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2022.02.25-09.17.28:169][ 52]LogFileHelpers: Loading map 'place' took 0.108
+[2022.02.25-09.17.29:642][158]LogRenderer: Reallocating scene render targets to support 820x460 Format 10 NumSamples 1 (Frame:102).
+[2022.02.25-09.17.31:073][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.25-09.17.31:120][313]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Monopoly/MAP/ppp3.ppp3
+[2022.02.25-09.17.31:120][313]LightingResults: New page: Lighting Build
+[2022.02.25-09.17.31:120][313]LoadErrors: New page: Loading map: ppp3.umap
+[2022.02.25-09.17.31:120][313]LogWorld: UWorld::CleanupWorld for place, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-09.17.31:120][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-09.17.31:120][313]MapCheck: New page: Map Check
+[2022.02.25-09.17.31:121][313]LightingResults: New page: Lighting Build
+[2022.02.25-09.17.31:138][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.25-09.17.31:140][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.25-09.17.31:141][313]LogAudio: Display: Audio Device (ID: 1) registered with world 'ppp3'.
+[2022.02.25-09.17.31:200][313]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.25-09.17.31:200][313]LogAIModule: Creating AISystem for world ppp3
+[2022.02.25-09.17.31:221][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.02.25-09.17.31:232][313]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.25-09.17.31:232][313]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2022.02.25-09.17.31:232][313]LogFileHelpers: Loading map 'ppp3' took 0.112
+[2022.02.25-09.17.40:707][221]LogEditorViewport: Clicking Background
+[2022.02.25-09.17.42:806][415]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.17.46:487][805]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.17.47:977][926]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.17.49:680][101]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.17.50:796][197]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.17.52:179][324]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.17.52:988][394]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.17.56:161][714]LogActorFactory: Actor Factory created Cube
+[2022.02.25-09.18.59:332][200]LogRenderer: Reallocating scene render targets to support 832x460 Format 10 NumSamples 1 (Frame:4288).
+[2022.02.25-09.18.59:362][201]LogRenderer: Reallocating scene render targets to support 888x460 Format 10 NumSamples 1 (Frame:4290).
+[2022.02.25-09.18.59:396][202]LogRenderer: Reallocating scene render targets to support 912x460 Format 10 NumSamples 1 (Frame:4292).
+[2022.02.25-09.18.59:439][205]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:4294).
+[2022.02.25-09.18.59:477][208]LogRenderer: Reallocating scene render targets to support 920x460 Format 10 NumSamples 1 (Frame:4296).
+[2022.02.25-09.18.59:530][210]LogRenderer: Reallocating scene render targets to support 928x460 Format 10 NumSamples 1 (Frame:4300).
+[2022.02.25-09.18.59:561][211]LogRenderer: Reallocating scene render targets to support 940x460 Format 10 NumSamples 1 (Frame:4302).
+[2022.02.25-09.18.59:589][212]LogRenderer: Reallocating scene render targets to support 956x460 Format 10 NumSamples 1 (Frame:4304).
+[2022.02.25-09.18.59:621][213]LogRenderer: Reallocating scene render targets to support 976x460 Format 10 NumSamples 1 (Frame:4306).
+[2022.02.25-09.18.59:654][214]LogRenderer: Reallocating scene render targets to support 992x460 Format 10 NumSamples 1 (Frame:4308).
+[2022.02.25-09.19.00:580][309]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.25-09.19.00:588][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.25-09.19.00:589][309]PIE: New page: PIE session: ppp3 (25 Feb 2022, 23:19:00)
+[2022.02.25-09.19.00:590][309]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.25-09.19.00:592][309]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.25-09.19.00:592][309]LogPlayLevel: Creating play world package: /Game/Monopoly/MAP/UEDPIE_0_ppp3
+[2022.02.25-09.19.00:593][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001197s)
+[2022.02.25-09.19.00:595][309]LogAIModule: Creating AISystem for world ppp3
+[2022.02.25-09.19.00:595][309]LogPlayLevel: PIE: World Init took: (0.002209s)
+[2022.02.25-09.19.00:595][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monopoly/MAP/ppp3.ppp3 to /Game/Monopoly/MAP/UEDPIE_0_ppp3.ppp3 (0.003559s)
+[2022.02.25-09.19.00:617][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.25-09.19.00:618][309]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.25-09.19.00:618][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.25-09.19.00:618][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.25-09.19.00:618][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.25-09.19.00:618][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.25-09.19.00:618][309]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.25-09.19.00:618][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.25-09.19.00:618][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.25-09.19.00:618][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.25-09.19.00:619][309]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.25-09.19.00:619][309]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.25-09.19.00:621][309]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.25-09.19.00:621][309]LogAudioMixer: Display: 1: FrontRight
+[2022.02.25-09.19.00:656][309]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.25-09.19.00:657][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.25-09.19.00:657][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.25-09.19.00:657][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.25-09.19.00:657][309]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.25-09.19.00:657][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.25-09.19.00:657][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.25-09.19.00:671][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.25-09.19.00:671][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.25-09.19.00:671][309]LogInit: FAudioDevice initialized.
+[2022.02.25-09.19.00:671][309]LogAudio: Display: Audio Device (ID: 2) registered with world 'ppp3'.
+[2022.02.25-09.19.00:681][309]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.25-09.19.00:685][309]LogWorld: Bringing World /Game/Monopoly/MAP/UEDPIE_0_ppp3.ppp3 up for play (max tick rate 0) at 2022.02.25-16.19.00
+[2022.02.25-09.19.00:685][309]LogWorld: Bringing up level for play took: 0.000582
+[2022.02.25-09.19.00:685][309]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.02.25-09.19.00:721][309]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.25-09.19.00:733][309]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.02.25-09.19.00:734][309]PIE: Server logged in
+[2022.02.25-09.19.00:735][309]PIE: Play in editor total start time 0.148 seconds.
+[2022.02.25-09.19.02:695][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-09.19.02:695][493]LogWorld: BeginTearingDown for /Game/Monopoly/MAP/UEDPIE_0_ppp3
+[2022.02.25-09.19.02:695][493]LogWorld: UWorld::CleanupWorld for ppp3, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-09.19.02:695][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-09.19.02:701][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.25-09.19.02:722][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-09.19.02:745][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.25-09.19.02:745][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.25-09.19.02:746][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.25-09.19.02:790][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-09.19.02:818][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.02.25-09.19.02:843][494]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.02.25-09.19.08:063][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.25-09.19.44:222][148]MapCheck: New page: Map Check
+[2022.02.25-09.19.44:248][148]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.25-09.19.44:248][148]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.25-09.19.44:322][148]LogWorld: UWorld::CleanupWorld for ppp3, bSessionEnded=true, bCleanupResources=false
+[2022.02.25-09.19.44:361][148]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.25-09.19.44:361][148]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.25-09.19.44:361][148]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.25-09.19.44:414][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.02.25-09.19.44:423][148]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.25-09.19.45:381][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.25-09.19.45:381][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.25-09.19.45:381][148]TextureStreamingBuild: Display: Compiling optional shaders took 0.965 seconds.
+[2022.02.25-09.19.45:382][148]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2022.02.25-09.19.45:386][148]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2022.02.25-09.19.45:418][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.02.25-09.19.45:423][148]LightingResults: New page: Lighting Build - 25 Feb 2022, 23:19:45
+[2022.02.25-09.19.45:597][148]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.25-09.19.45:678][148]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.25-09.19.45:701][148]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.25-09.19.46:763][148]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.25-09.19.46:763][148]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13788
+[2022.02.25-09.19.55:168][148]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.25-09.19.55:168][148]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.25-09.19.55:169][148]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.25-09.19.55:169][148]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.25-09.19.55:169][148]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.25-09.19.55:169][148]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.25-09.19.55:291][148]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.25-09.19.55:291][148]MapCheck: New page: ppp3 - 25 Feb 2022, 23:19:55
+[2022.02.25-09.19.55:291][148]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2022.02.25-09.19.55:293][148]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.616ms to complete.
+[2022.02.25-09.19.55:295][148]LogEditorBuildUtils: Build time 0:11
+[2022.02.25-09.19.55:803][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.02.25-09.19.57:186][172]Job is a success!
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.25-09.19.57:327][173]LogVolumetricLightmapImport:          ppp3 			 11 bricks 	 100.0% (Persistent Level)
+[2022.02.25-09.19.57:390][173]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2022.02.25-09.19.57:390][173]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2022.02.25-09.19.57:390][173]Lightmass on DESKTOP-OGCOFB0: 717 ms total, 98 ms importing, 9 ms setup, 46 ms photons, 462 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 5.08 sec total, 324 ms processing.
+[2022.02.25-09.19.57:391][173]LogStaticLightingSystem: ppp3_BuiltData storing lightmap data for 5 meshes in 1 LightmapResourceClusters (5.0 Meshes per cluster).
+[2022.02.25-09.19.57:435][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.25-09.19.57:508][173]LogStaticLightingSystem: Illumination: 11.9 sec (23 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.02.25-09.19.57:508][173]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.02.25-09.19.57:508][173]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.02.25-09.19.58:179][173]DumpUnbuiltLightIteractions
+[2022.02.25-09.19.58:179][173]Lights with unbuilt interactions: 0
+[2022.02.25-09.19.58:179][173]
+[2022.02.25-09.19.58:179][173]Primitives with unbuilt interactions: 0
+[2022.02.25-09.19.58:256][174]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.25-09.19.58:256][174]MapCheck: New page: ppp3 - 25 Feb 2022, 23:19:58
+[2022.02.25-09.19.58:257][174]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.255ms to complete.
+[2022.02.25-09.19.59:609][261]LogSlate: Window 'Message Log' being destroyed
+[2022.02.25-09.19.59:624][261]LogSlate: Window 'Message Log' being destroyed
+[2022.02.25-09.24.03:373][999]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.25-09.24.03:384][999]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.25-09.24.03:398][999]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.25-09.24.05:770][224]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Base_Obstacle
+[2022.02.25-09.24.05:780][224]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.25-09.24.07:390][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Monopoly/BP/BP_Base_Obstacle.BP_Base_Obstacle
+[2022.02.25-09.27.34:430][823]LogUObjectHash: Compacting FUObjectHashTables data took  10.95ms
+[2022.02.25-09.27.34:447][823]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto11F01BC024DBAF2178E2279B3F5F666AA.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto1.umap'
+[2022.02.25-09.27.34:448][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.144
+[2022.02.25-09.27.34:448][823]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: request failed, libcurl error: 0 (No error)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a74e67c100 [can pipeline])
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.209.143.214) port 443 (#3))
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 7 (Closing connection 3)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: 000001A745491600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.25-09.29.13:359][798]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.25-09.29.45:891][ 99]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.25-09.29.47:101][168]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.25-09.29.47:102][168]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.25-09.29.47:102][168]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.25-09.29.47:105][168]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.25-09.29.49:017][286]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.25-09.29.49:017][286]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.25-09.29.49:017][286]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.25-09.29.49:021][286]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.25-09.29.51:034][420]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.25-09.29.51:034][420]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.25-09.29.51:034][420]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.25-09.29.51:038][420]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.25-09.29.53:051][545]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.25-09.29.53:051][545]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.25-09.29.53:051][545]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.25-09.29.53:055][545]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.25-09.30.08:065][573]LogHttp: Warning: 000001AA03E69D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.25-09.30.08:065][573]LogHttp: Warning: 000001AA03E69D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.25-09.30.08:066][573]LogHttp: Warning: 000001AA03E69D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.25-09.30.08:066][573]LogHttp: Warning: 000001AA03E69D00: libcurl info message cache 1 (Closing connection 4)
+[2022.02.25-09.30.08:079][574]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.25-09.30.11:182][783]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.25-09.33.13:702][924]LogHttp: Warning: 000001AA03E6B200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: request failed, libcurl error: 0 (No error)
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a74e67f4f0 [can pipeline])
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.213.145.38) port 443 (#5))
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 7 (Closing connection 5)
+[2022.02.25-09.33.13:708][924]LogHttp: Warning: 000001AA03E6B200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.25-09.33.13:709][924]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.25-09.35.47:227][114]BlueprintLog: New page: Compile BP_Base_Obstacle
+[2022.02.25-09.35.47:852][114]LogUObjectHash: Compacting FUObjectHashTables data took  11.56ms
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: request failed, libcurl error: 0 (No error)
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a74e67f8b0 [can pipeline])
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.207.159) port 443 (#6))
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.25-09.37.14:953][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 7 (Closing connection 6)
+[2022.02.25-09.37.14:954][312]LogHttp: Warning: 000001A740C19D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.25-09.37.14:954][312]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E0D7775-498F-A3C5-1371-A886C29467A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.25-09.37.34:541][552]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSCSTreeType [SSCSEditor.cpp(3869)].
+[2022.02.25-09.37.34:605][552]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.02.25-09.37.34:609][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.046
+[2022.02.25-09.38.51:060][320]BlueprintLog: New page: Compile BP_Base_Obstacle
+[2022.02.25-09.38.51:118][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.02.25-09.38.51:716][349]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Base_Obstacle412509F8443C0EDE96FD8D8A0C31DA80.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Base_Obstacle.uasset'
+[2022.02.25-09.38.52:032][349]AssetCheck: New page: Asset Save: BP_Base_Obstacle
+[2022.02.25-09.38.52:032][349]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Base_Obstacle.BP_Base_Obstacle
+[2022.02.25-09.40.28:002][ 35]Cmd: DELETE
+[2022.02.25-09.40.28:002][ 35]Cmd: ACTOR DELETE
+[2022.02.25-09.40.28:032][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.25-09.40.28:033][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.25-09.40.28:033][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.25-09.40.28:034][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.25-09.40.28:072][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.02.25-09.40.28:075][ 35]LogEditorActor: Deleted 4 Actors (0.054 secs)
+[2022.02.25-09.40.40:255][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.02.25-09.40.40:264][840]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3B0DC74874F8223BF932E569FAC09AB49.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/MAP/ppp3.umap'
+[2022.02.25-09.40.40:320][840]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_BuiltData8DDFA740402040DB187FB1A58788A68A.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/MAP/ppp3_BuiltData.uasset'
+[2022.02.25-09.40.40:345][840]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.25-09.40.40:345][840]LogContentValidation: Display: Validating World /Game/Monopoly/MAP/ppp3.ppp3
+[2022.02.25-09.40.40:345][840]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Monopoly/MAP/ppp3_BuiltData.ppp3_BuiltData
+[2022.02.25-09.41.40:123][785]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.02.25-09.41.40:138][785]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.02.25-09.41.42:114][925]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_GroundTypes
+[2022.02.25-09.41.42:123][925]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.02.25-09.41.43:243][  8]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Monopoly/BP/Enum_GroundTypes.Enum_GroundTypes
+[2022.02.25-09.45.45:554][424]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Enum_GroundTypes0BCA3F6845A2AC4F6C10E9916474A897.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/Enum_GroundTypes.uasset'
+[2022.02.25-09.45.45:578][424]AssetCheck: New page: Asset Save: Enum_GroundTypes
+[2022.02.25-09.45.45:578][424]LogContentValidation: Display: Validating UserDefinedEnum /Game/Monopoly/BP/Enum_GroundTypes.Enum_GroundTypes
+[2022.02.25-09.46.43:861][750]LogSlate: Took 0.008906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.25-09.46.58:690][330]BlueprintLog: New page: Compile BP_Base_Obstacle
+[2022.02.25-09.46.58:813][330]LogUObjectHash: Compacting FUObjectHashTables data took  12.40ms
+[2022.02.25-09.47.24:134][597]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Base_Obstacle45B39B2A479D6AE254A33DA3911174D6.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Base_Obstacle.uasset'
+[2022.02.25-09.47.24:151][597]AssetCheck: New page: Asset Save: BP_Base_Obstacle
+[2022.02.25-09.47.24:151][597]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Base_Obstacle.BP_Base_Obstacle
+[2022.02.25-09.47.45:551][975]BlueprintLog: New page: Compile BP_Base_Obstacle
+[2022.02.25-09.47.45:607][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.25-09.47.46:264][ 14]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Base_ObstacleC9F68D974AF299AC3AF5368B73AC0E25.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Base_Obstacle.uasset'
+[2022.02.25-09.47.46:279][ 14]AssetCheck: New page: Asset Save: BP_Base_Obstacle
+[2022.02.25-09.47.46:279][ 14]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Base_Obstacle.BP_Base_Obstacle
+[2022.02.25-09.49.49:274][631]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-09.49.49:278][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-09.50.52:723][523]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid20D988B04FE3A037AAF0B7BC41743277.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-09.50.52:740][523]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-09.50.52:740][523]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-09.50.53:112][549]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-09.50.53:219][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.02.25-09.51.26:191][239]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridFBC542CD4EF96ED1EB9C09A631A95F99.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-09.51.26:207][239]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-09.51.26:207][239]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-09.51.26:686][270]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-09.51.26:760][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.02.25-09.52.35:282][723]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-09.52.35:357][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.02.25-09.52.35:890][750]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridF280FB2D41CA1202C3AE90A592C28339.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-09.52.35:907][750]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-09.52.35:907][750]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-09.54.02:186][999]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-09.54.02:261][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.02.25-09.54.02:862][ 35]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid279C718D480D94011E89F4996433C1BB.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-09.54.02:877][ 35]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-09.54.02:877][ 35]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-09.54.19:342][836]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-09.54.19:418][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.02.25-09.54.19:874][861]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid51CAB1114F55CDC42D12F88A324FACCB.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-09.54.19:887][861]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-09.54.19:887][861]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-09.54.51:994][243]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.25-09.55.23:721][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.02.25-09.55.23:728][417]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto2F933033D47815063AE8059ACCD934873.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto2.umap'
+[2022.02.25-09.55.23:729][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.037
+[2022.02.25-09.55.23:730][417]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2022.02.25-09.55.23:731][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monopoly/BP/BP_Grid] ([1] browsable assets)...
+[2022.02.25-09.55.23:731][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monopoly/BP/BP_Grid]
+[2022.02.25-09.55.23:771][417]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid_Auto25F1F4A2E4FA7F2BECC9F979F99D9F697.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/BP/BP_Grid_Auto2.uasset'
+[2022.02.25-09.55.23:772][417]LogFileHelpers: Auto-saving content packages took 0.041
+[2022.02.25-09.57.57:900][374]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.25-09.58.16:797][600]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.25-09.58.18:881][805]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-09.58.18:953][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.25-09.58.21:118][970]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridD1A5D25A4FBFA1DD007A7F8A31D6E232.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-09.58.21:132][970]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-09.58.21:132][970]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.00.03:626][928]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle)
+[2022.02.25-10.00.06:336][136]Cmd: EDIT COPY
+[2022.02.25-10.00.06:938][181]Cmd: EDIT PASTE
+[2022.02.25-10.00.10:045][418]Cmd: EDIT PASTE
+[2022.02.25-10.00.13:789][700]LogEditorViewport: Clicking Background
+[2022.02.25-10.00.14:470][753]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle3)
+[2022.02.25-10.00.16:600][906]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle4)
+[2022.02.25-10.00.23:533][440]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle5)
+[2022.02.25-10.00.26:477][679]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle6)
+[2022.02.25-10.00.29:948][974]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.25-10.00.29:966][974]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.25-10.00.29:983][974]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.02.25-10.00.30:039][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.02.25-10.00.30:046][974]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2022.02.25-10.00.30:063][974]PIE: New page: PIE session: ppp3 (26 Feb 2022, 00:00:30)
+[2022.02.25-10.00.30:071][974]LogPlayLevel: Creating play world package: /Game/Monopoly/MAP/UEDPIE_0_ppp3
+[2022.02.25-10.00.30:097][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026470s)
+[2022.02.25-10.00.30:134][974]LogAIModule: Creating AISystem for world ppp3
+[2022.02.25-10.00.30:146][974]LogPlayLevel: PIE: World Init took: (0.048163s)
+[2022.02.25-10.00.30:146][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Monopoly/MAP/ppp3.ppp3 to /Game/Monopoly/MAP/UEDPIE_0_ppp3.ppp3 (0.074970s)
+[2022.02.25-10.00.30:177][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.02.25-10.00.30:183][974]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.25-10.00.30:189][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.25-10.00.30:189][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.25-10.00.30:189][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.25-10.00.30:189][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.25-10.00.30:189][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.25-10.00.30:189][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.25-10.00.30:189][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.25-10.00.30:189][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.25-10.00.30:194][974]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.25-10.00.30:194][974]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.25-10.00.30:206][974]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.25-10.00.30:206][974]LogAudioMixer: Display: 1: FrontRight
+[2022.02.25-10.00.30:258][974]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.25-10.00.30:261][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.25-10.00.30:261][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.25-10.00.30:262][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.25-10.00.30:263][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.25-10.00.30:263][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.25-10.00.30:263][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.25-10.00.30:283][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.25-10.00.30:283][974]LogInit: FAudioDevice initialized.
+[2022.02.25-10.00.30:283][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.25-10.00.30:283][974]LogAudio: Display: Audio Device (ID: 3) registered with world 'ppp3'.
+[2022.02.25-10.00.30:339][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.25-10.00.30:364][974]LogWorld: Bringing World /Game/Monopoly/MAP/UEDPIE_0_ppp3.ppp3 up for play (max tick rate 0) at 2022.02.25-17.00.30
+[2022.02.25-10.00.30:369][974]LogWorld: Bringing up level for play took: 0.014806
+[2022.02.25-10.00.30:385][974]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.02.25-10.00.30:500][974]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.02.25-10.00.30:512][974]PIE: Server logged in
+[2022.02.25-10.00.30:513][974]PIE: Play in editor total start time 0.554 seconds.
+[2022.02.25-10.00.31:708][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-10.00.31:708][ 94]LogWorld: BeginTearingDown for /Game/Monopoly/MAP/UEDPIE_0_ppp3
+[2022.02.25-10.00.31:710][ 94]LogWorld: UWorld::CleanupWorld for ppp3, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-10.00.31:710][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-10.00.31:739][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.25-10.00.31:750][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-10.00.31:776][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.25-10.00.31:778][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.25-10.00.31:780][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.25-10.00.31:812][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.25-10.00.31:833][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.02.25-10.00.47:826][189]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle4)
+[2022.02.25-10.01.19:551][896]LogEditorViewport: Clicking Background
+[2022.02.25-10.01.50:533][318]BlueprintLog: New page: Collapse to Function
+[2022.02.25-10.02.38:777][740]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-10.02.38:798][740]LogBlueprint: Warning: [AssetLog] C:\Users\Oil\Documents\GitHub\English-Vocabulary-Learning-Game-for-General-Aptitude-Test\MyProject\Content\Monopoly\BP\BP_Grid.uasset: [Compiler] Unable to find local variable with name 'TilePosition' for  Get TilePosition
+[2022.02.25-10.02.38:799][740]LogBlueprint: Error: [AssetLog] C:\Users\Oil\Documents\GitHub\English-Vocabulary-Learning-Game-for-General-Aptitude-Test\MyProject\Content\Monopoly\BP\BP_Grid.uasset: [Compiler] The property associated with  Tile Position  could not be found in '/Game/Monopoly/BP/BP_Grid.BP_Grid_C'
+[2022.02.25-10.02.38:893][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.02.25-10.02.39:808][791]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid864C8D1143FAEA02E70F9A9701C030EE.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.02.39:823][791]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.02.39:823][791]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.05.32:459][798]LogUObjectHash: Compacting FUObjectHashTables data took  14.92ms
+[2022.02.25-10.05.32:481][798]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto3A4371FCF4E09D81788DD5A9137672F8B.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto3.umap'
+[2022.02.25-10.05.32:482][798]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.164
+[2022.02.25-10.05.32:482][798]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2022.02.25-10.05.32:483][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monopoly/BP/BP_Grid] ([1] browsable assets)...
+[2022.02.25-10.05.32:483][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monopoly/BP/BP_Grid]
+[2022.02.25-10.05.32:553][798]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid_Auto3E8A03B8F4702CCD4B54CE78802737058.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/BP/BP_Grid_Auto3.uasset'
+[2022.02.25-10.05.32:554][798]LogFileHelpers: Auto-saving content packages took 0.071
+[2022.02.25-10.05.48:839][ 34]LogRenderer: Reallocating scene render targets to support 1120x460 Format 10 NumSamples 1 (Frame:402).
+[2022.02.25-10.05.48:902][ 35]LogRenderer: Reallocating scene render targets to support 1136x460 Format 10 NumSamples 1 (Frame:404).
+[2022.02.25-10.06.27:156][849]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-10.06.27:233][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.25-10.06.59:294][807]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-10.06.59:360][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.02.25-10.06.59:916][838]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid48B150424DA1E424F1D019AB2ACFB75C.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.06.59:934][838]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.06.59:934][838]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.15.32:955][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.02.25-10.15.32:961][393]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto40DDB84B74387ABFE497E10AE7B0B689B.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto4.umap'
+[2022.02.25-10.15.32:962][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.039
+[2022.02.25-10.15.32:962][393]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2022.02.25-10.28.19:142][228]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridF7F880D243A48A7675D2BEA3FA63C614.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.28.19:159][228]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.28.19:159][228]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.29.48:109][738]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-10.29.48:204][738]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.02.25-10.29.48:636][752]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridC50650C24BC9A8D3803898873612288C.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.29.48:653][752]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.29.48:653][752]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.31.22:717][488]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-10.31.22:794][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.02.25-10.31.23:196][503]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid2B901264429905F7A45198B300BD4D5D.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.31.23:212][503]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.31.23:212][503]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.33.12:015][526]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-10.33.12:085][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.02.25-10.33.12:545][549]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridB86F064447891501B44905A030A14D84.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.33.12:563][549]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.33.12:563][549]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.35.00:845][955]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid0C1C549D481052B46CA0A6A2B51B766B.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.35.00:861][955]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.35.00:861][955]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.35.01:644][ 19]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-10.35.01:710][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.02.25-10.35.02:294][ 49]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridAF54B43746E531A897B3F98D672A1720.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-10.35.02:308][ 49]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-10.35.02:308][ 49]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-10.35.28:141][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.02.25-10.35.28:148][477]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto5A5C4205B4D72F751D72803BE2E635922.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto5.umap'
+[2022.02.25-10.35.28:150][477]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.042
+[2022.02.25-10.35.28:150][477]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2022.02.25-10.37.58:097][499]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UniformBuffer.cpp:150 
+ with error E_OUTOFMEMORY
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     63 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(29798)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     87 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(29798)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     86 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(29798)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     54 = 4083 KB (2D 1136x460 PF_FloatRGBA RT UAV VRam) SceneColorDeferred unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     65 = 4083 KB (2D 1136x460 PF_FloatRGBA RT UAV) LightAccumulation
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     78 = 4083 KB (2D 1136x460 PF_FloatRGBA RT UAV) ScreenSpaceReflections unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     80 = 4083 KB (2D 1136x460 PF_FloatRGBA RT) SceneColor unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     79 = 4083 KB (2D 1136x460 PF_FloatRGBA RT) SeparateTranslucencyColor unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     84 = 4083 KB (2D 1136x460 PF_FloatRGBA UAV) TemporalAA
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     81 = 4083 KB (2D 1136x460 PF_FloatRGBA UAV) TemporalAA unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     55 = 3565 KB (2D 992x460 PF_FloatRGBA UAV) TemporalAA unused(38434)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     52 = 2552 KB (2D 1136x460 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     14 = 2552 KB (2D 1136x460 PF_DepthStencil 4xMSAA) SelectionOutline unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     74 = 2552 KB (2D 1136x460 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     71 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     69 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     67 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     70 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     68 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     66 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     62 = 2042 KB (2D 1136x460 PF_A2B10G10R10 RT) GBufferA unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     53 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     60 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT sRGB) GBufferC unused(1)
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     61 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT VRam) GBufferE unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     27 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT VRam) SelectionOutlineColor unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:780][499]LogConsoleResponse:     51 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT VRam) ShadowMaskTexture unused(29798) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     26 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT) EditorPrimitives unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     56 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT) GBufferB unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     57 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT) GBufferD unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     85 = 2042 KB (2D 1136x460 PF_B8G8R8A8 RT) HitProxy unused(38430)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     73 = 1276 KB (2D 568x230 PF_DepthStencil) SmallDepthZ
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     64 = 1021 KB (2D 1136x230 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     76 = 1021 KB (2D 568x230 PF_FloatRGBA RT) AmbientOcclusionSetup unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     38 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     39 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     72 = 511 KB (2D 1136x460 PF_G8 RT UAV) ScreenSpaceAO
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     77 = 511 KB (2D 568x230 PF_B8G8R8A8 RT) AmbientOcclusion unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     47 = 511 KB (2D 568x230 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     29 = 511 KB (2D 568x230 PF_FloatRGB RT) BloomY unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     25 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     22 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     23 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     42 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     24 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     75 = 171 KB (2D 256x256 PF_R16F UAV VRam) HZBFurthest unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     43 = 128 KB (2D 284x115 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     30 = 128 KB (2D 284x115 PF_FloatRGB RT) BloomY unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     88 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUT unused(29798) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     48 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     59 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:      7 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     49 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     41 = 33 KB (2D 142x58 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     31 = 33 KB (2D 142x58 PF_FloatRGB RT) BloomY unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     19 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     15 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     20 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     40 = 16 KB (2D 64x64 PF_R32_FLOAT UAV) HairCoverageLUT
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     16 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     37 = 9 KB (2D 71x29 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     32 = 9 KB (2D 71x29 PF_FloatRGB RT) BloomY unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     17 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     21 = 8 KB (3D 16x16x16 PF_R16F) GTAOPreIntegrated
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     82 = 4 KB (2D 16x28 PF_FloatRGBA RT UAV VRam) Histogram unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     36 = 3 KB (2D 36x15 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     33 = 3 KB (2D 36x15 PF_FloatRGB RT) BloomY unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     83 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     35 = 1 KB (2D 18x8 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     34 = 1 KB (2D 18x8 PF_FloatRGB RT) BloomY unused(1)
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     28 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     44 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     50 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     46 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     58 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:     45 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:      4 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:      2 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2022.02.25-12.31.00:781][499]LogConsoleResponse:      1 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:     11 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:      3 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:     12 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:     18 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2022.02.25-12.31.00:782][499]LogConsoleResponse:     13 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2022.02.25-12.31.00:782][499]LogConsoleResponse: 
+[2022.02.25-12.31.00:782][499]LogConsoleResponse: Pool: 28/152 MB (referenced/allocated)
+[2022.02.25-12.31.00:782][499]Cmd: rhi.DumpMemory
+[2022.02.25-12.31.00:821][499]RHI resource memory (not tracked by our allocator)
+[2022.02.25-12.31.00:822][499]               0  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]         1460196  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]        14553296  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]        21994626  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]      1438880832  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]        21037140  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]          180300  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]       108527172  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]               0  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]        14097351  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:822][499]       466850813  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2022.02.25-12.31.00:824][499]1990.873MB total
+[2022.02.25-12.31.00:824][499]Cmd: Mem FromReport
+[2022.02.25-12.31.00:824][499]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.02.25-12.31.00:824][499]LogMemory: Platform Memory Stats for Windows
+[2022.02.25-12.31.00:824][499]LogMemory: Process Physical Memory: 846.56 MB used, 10938.59 MB peak
+[2022.02.25-12.31.00:824][499]LogMemory: Process Virtual Memory: 53887.71 MB used, 53892.64 MB peak
+[2022.02.25-12.31.00:824][499]LogMemory: Physical Memory: 8025.00 MB used,  8201.62 MB free, 16226.61 MB total
+[2022.02.25-12.31.00:824][499]LogMemory: Virtual Memory: 134216936.00 MB used,  788.02 MB free, 134217728.00 MB total
+[2022.02.25-12.31.00:824][499]LogMemory: 
+[2022.02.25-12.31.00:824][499]Allocator Stats for TBB: (not implemented)
+[2022.02.25-12.31.00:824][499]LogMemory: Memory Stats:
+[2022.02.25-12.31.00:824][499]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2022.02.25-12.31.00:824][499]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [0.69 / 0.56] MB
+[2022.02.25-12.31.00:824][499]LogMemory: Nametable memory usage = 6.95 MB
+[2022.02.25-12.31.00:830][499]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.02.25-12.31.00:841][499]Log file closed, 02/25/22 19:31:00

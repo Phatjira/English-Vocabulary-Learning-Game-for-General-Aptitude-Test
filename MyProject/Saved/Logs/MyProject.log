@@ -933,3 +933,101 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.25-16.31.04:628][385]LogContentValidation: Display: Validating World /Game/Monopoly/MAP/ppp3.ppp3
 [2022.02.25-16.31.04:628][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Monopoly/MAP/ppp3_BuiltData.ppp3_BuiltData
 [2022.02.25-16.31.07:591][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.25-16.35.29:371][153]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.02.25-16.35.29:386][153]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.02.25-16.35.31:485][299]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Struct_Tiles
+[2022.02.25-16.35.31:498][299]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.02.25-16.35.32:528][375]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Monopoly/BP/Struct_Tiles.Struct_Tiles
+[2022.02.25-16.36.50:520][186]LogSlate: Took 0.008861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.25-16.37.38:929][132]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Struct_Tiles7BC55A46466063FA6F554FB6A765E761.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/Struct_Tiles.uasset'
+[2022.02.25-16.37.38:943][132]AssetCheck: New page: Asset Save: Struct_Tiles
+[2022.02.25-16.37.38:943][132]LogContentValidation: Display: Validating UserDefinedStruct /Game/Monopoly/BP/Struct_Tiles.Struct_Tiles
+[2022.02.25-16.39.06:477][535]LogSlate: Window 'Struct_Tiles' being destroyed
+[2022.02.25-16.39.06:482][535]LogSlate: Window 'Struct_Tiles' being destroyed
+[2022.02.25-16.39.09:576][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-16.40.38:296][916]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-16.40.38:349][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.02.25-16.40.38:816][942]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid84340F7443EC174186BBE087F0CC50DA.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-16.40.38:836][942]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-16.40.38:836][942]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-16.41.12:128][476]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-16.41.12:145][476]LogClass: Warning: Type mismatch in struct_Tiles of BP_Grid_C - Previous (StructProperty) Current(MapProperty) for package:  FObjectReader
+[2022.02.25-16.41.12:187][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.02.25-16.41.12:795][508]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridB97BAEE44174AA95FF7571B45E3E1BE9.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-16.41.12:808][508]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-16.41.12:808][508]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-16.41.39:746][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.25-16.41.39:752][821]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto111049750401E03A471DA608AD3BDC5F4.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto1.umap'
+[2022.02.25-16.41.39:754][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.029
+[2022.02.25-16.41.39:754][821]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2022.02.25-16.42.23:143][540]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-16.42.23:206][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.02.25-16.42.23:770][569]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridEAEB342C4232CA97452CB28D559AEC47.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-16.42.23:785][569]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-16.42.23:785][569]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-16.51.40:374][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.02.25-16.51.40:380][257]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto2A20079F749EE1D871C0A21BF9C7D3888.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto2.umap'
+[2022.02.25-16.51.40:382][257]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.032
+[2022.02.25-16.51.40:382][257]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.02.25-16.51.40:382][257]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monopoly/BP/BP_Grid] ([1] browsable assets)...
+[2022.02.25-16.51.40:382][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monopoly/BP/BP_Grid]
+[2022.02.25-16.51.40:440][257]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid_Auto288D501494DF409E4983C4584D53BC916.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/BP/BP_Grid_Auto2.uasset'
+[2022.02.25-16.51.40:441][257]LogFileHelpers: Auto-saving content packages took 0.059
+[2022.02.25-16.58.56:790][563]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid77C62D934E17A0FD809484A9A4A81C0D.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-16.58.56:803][563]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-16.58.56:803][563]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-16.59.13:488][701]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Monopoly/BP/Enum_GroundTypes.Enum_GroundTypes
+[2022.02.25-16.59.23:044][566]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Enum_GroundTypes1DE41E524DC000169A282A86D7C7FF48.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/Enum_GroundTypes.uasset'
+[2022.02.25-16.59.23:058][566]AssetCheck: New page: Asset Save: Enum_GroundTypes
+[2022.02.25-16.59.23:058][566]LogContentValidation: Display: Validating UserDefinedEnum /Game/Monopoly/BP/Enum_GroundTypes.Enum_GroundTypes
+[2022.02.25-16.59.25:766][764]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-16.59.25:829][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.02.25-16.59.26:338][792]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid22727E8C4FFCBF230EDDD78AFDF5E94A.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-16.59.26:353][792]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-16.59.26:353][792]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-16.59.35:135][ 42]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-16.59.35:199][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.25-16.59.35:683][ 70]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid4D39F07A4F476455627D81AA3D98E783.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-16.59.35:699][ 70]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-16.59.35:699][ 70]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-17.01.40:909][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.02.25-17.01.40:916][570]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto32EEEE43F44EA535CA0EAF0B1B9B7FDA0.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto3.umap'
+[2022.02.25-17.01.40:917][570]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.035
+[2022.02.25-17.01.40:917][570]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2022.02.25-17.01.40:917][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monopoly/BP/BP_Grid] ([1] browsable assets)...
+[2022.02.25-17.01.40:917][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monopoly/BP/BP_Grid]
+[2022.02.25-17.01.40:989][570]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid_Auto3069F03D2409AB06665AF14A7699EBBDD.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/BP/BP_Grid_Auto3.uasset'
+[2022.02.25-17.01.40:991][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monopoly/BP/Struct_Tiles] ([1] browsable assets)...
+[2022.02.25-17.01.40:991][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monopoly/BP/Struct_Tiles]
+[2022.02.25-17.01.40:993][570]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Struct_Tiles_Auto3C25AE4634B6856C92DE00490B0CF70B1.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/BP/Struct_Tiles_Auto3.uasset'
+[2022.02.25-17.01.40:994][570]LogFileHelpers: Auto-saving content packages took 0.077
+[2022.02.25-17.02.28:069][143]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-17.02.28:136][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.25-17.02.28:972][195]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid65B612FA4B8B229FF87E38A1DBD071D8.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-17.02.28:986][195]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-17.02.28:986][195]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-17.03.26:006][430]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-17.03.26:064][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.02.25-17.03.26:497][454]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid93AB83824B5C31BCD3E801AB502F7276.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-17.03.26:508][454]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-17.03.26:509][454]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-17.11.41:531][979]LogUObjectHash: Compacting FUObjectHashTables data took  13.41ms
+[2022.02.25-17.11.41:691][979]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto47A9B25D041A956DD12A7EEB8F09532A6.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto4.umap'
+[2022.02.25-17.11.41:706][979]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.404
+[2022.02.25-17.11.41:707][979]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.404
+[2022.02.25-17.11.41:718][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monopoly/BP/BP_Grid] ([1] browsable assets)...
+[2022.02.25-17.11.41:718][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monopoly/BP/BP_Grid]
+[2022.02.25-17.11.41:844][979]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid_Auto455AED31E463D6D4CA55733B3A916B55B.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/BP/BP_Grid_Auto4.uasset'
+[2022.02.25-17.11.41:847][979]LogFileHelpers: Auto-saving content packages took 0.140
+[2022.02.25-17.18.06:289][700]BlueprintLog: New page: Compile BP_Grid
+[2022.02.25-17.18.06:841][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.02.25-17.18.07:828][737]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid7C87F4CE4E5F0BB66DF7EE988390A0E1.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-17.18.08:115][737]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-17.18.08:116][737]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-17.20.40:245][446]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid7E73D17941AE17C97AFB95A034DBC60B.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-17.20.40:260][446]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-17.20.40:260][446]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-17.21.58:393][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.02.25-17.21.58:404][784]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto510C5E5A54E9581E900F68DB0AACD346E.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto5.umap'
+[2022.02.25-17.21.58:405][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.052
+[2022.02.25-17.21.58:405][784]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052

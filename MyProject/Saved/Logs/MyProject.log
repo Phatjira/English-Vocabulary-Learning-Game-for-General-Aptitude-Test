@@ -1031,3 +1031,221 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.25-17.21.58:404][784]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto510C5E5A54E9581E900F68DB0AACD346E.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto5.umap'
 [2022.02.25-17.21.58:405][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.052
 [2022.02.25-17.21.58:405][784]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2022.02.25-17.22.18:075][889]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridFA0A61B9493EE5846DBE06B22E305230.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.25-17.22.18:101][889]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.25-17.22.18:101][889]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.25-17.22.32:973][476]LogEditorViewport: Clicking Background
+[2022.02.25-17.22.37:335][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.25-17.22.37:345][982]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp300433AC74F9398C0175BEEBE96274E3F.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/MAP/ppp3.umap'
+[2022.02.25-17.22.37:602][982]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_BuiltData3BE6D09048988426F035E2B44BB104B0.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/MAP/ppp3_BuiltData.uasset'
+[2022.02.25-17.22.37:622][982]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.25-17.22.37:622][982]LogContentValidation: Display: Validating World /Game/Monopoly/MAP/ppp3.ppp3
+[2022.02.25-17.22.37:622][982]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Monopoly/MAP/ppp3_BuiltData.ppp3_BuiltData
+[2022.02.25-17.23.00:647][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.02.25-17.26.13:472][680]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.25-17.26.13:472][680]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.25-17.32.37:541][317]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2022.02.25-17.32.37:586][317]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto6B289E4B6483811C83646E3BF791F7204.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto6.umap'
+[2022.02.25-17.32.37:588][317]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.101
+[2022.02.25-17.32.37:588][317]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2022.02.25-17.39.12:161][274]MapCheck: New page: Map Check
+[2022.02.25-17.39.12:197][274]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.25-17.39.12:201][274]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.25-17.39.12:583][274]LogWorld: UWorld::CleanupWorld for ppp3, bSessionEnded=true, bCleanupResources=false
+[2022.02.25-17.39.12:671][274]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.25-17.39.12:671][274]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.25-17.39.12:671][274]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.25-17.39.12:699][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.02.25-17.39.12:770][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.25-17.39.12:805][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.25-17.39.12:806][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.25-17.39.12:808][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.25-17.39.12:811][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.02.25-17.39.12:818][274]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.02.25-17.39.12:818][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.25-17.39.14:349][274]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.02.25-17.39.14:349][274]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.25-17.39.14:349][274]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.02.25-17.39.14:349][274]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.25-17.39.14:349][274]TextureStreamingBuild: Display: Compiling optional shaders took 1.637 seconds.
+[2022.02.25-17.39.14:374][274]LogLevel: Display: Export Material TexCoord Scales took 0.025 seconds.
+[2022.02.25-17.39.14:377][274]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.02.25-17.39.14:397][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.25-17.39.14:413][274]LightingResults: New page: Lighting Build - 26 Feb 2022, 07:39:14
+[2022.02.25-17.39.14:619][274]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.25-17.39.14:759][274]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.25-17.39.14:815][274]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.25-17.39.15:875][274]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.25-17.39.15:875][274]LogSwarmInterface: [TryOpenConnection] Local Process ID is 220
+[2022.02.25-17.39.26:781][274]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.25-17.39.26:783][274]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.25-17.39.26:783][274]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.25-17.39.26:783][274]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.25-17.39.26:783][274]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.25-17.39.26:783][274]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.25-17.39.26:984][274]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.25-17.39.26:985][274]MapCheck: New page: ppp3 - 26 Feb 2022, 07:39:26
+[2022.02.25-17.39.27:022][274]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.268ms to complete.
+[2022.02.25-17.39.27:026][274]LogEditorBuildUtils: Build time 0:14
+[2022.02.25-17.39.27:285][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.02.25-17.39.28:854][306]Job is a success!
+[2022.02.25-17.39.29:077][307]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.02.25-17.39.29:077][307]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.25-17.39.29:077][307]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.25-17.39.29:077][307]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.25-17.39.29:077][307]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2022.02.25-17.39.29:078][307]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2022.02.25-17.39.29:078][307]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2022.02.25-17.39.29:078][307]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.25-17.39.29:078][307]LogVolumetricLightmapImport:          ppp3 			 11 bricks 	 100.0% (Persistent Level)
+[2022.02.25-17.39.29:164][307]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2022.02.25-17.39.29:164][307]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2022.02.25-17.39.29:164][307]Lightmass on DESKTOP-OGCOFB0: 1.04 sec total, 95 ms importing, 4 ms setup, 44 ms photons, 543 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 5.96 sec total, 14 ms processing.
+[2022.02.25-17.39.29:193][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.02.25-17.39.29:257][307]LogStaticLightingSystem: Illumination: 14.7 sec (23 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.02.25-17.39.29:258][307]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.02.25-17.39.29:258][307]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.02.25-17.39.29:797][307]DumpUnbuiltLightIteractions
+[2022.02.25-17.39.29:797][307]Lights with unbuilt interactions: 0
+[2022.02.25-17.39.29:797][307]
+[2022.02.25-17.39.29:797][307]Primitives with unbuilt interactions: 0
+[2022.02.25-17.39.29:910][308]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.25-17.39.29:910][308]MapCheck: New page: ppp3 - 26 Feb 2022, 07:39:29
+[2022.02.25-17.39.29:911][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.242ms to complete.
+[2022.02.25-17.39.38:111][938]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.25-17.39.38:126][938]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.25-17.39.39:451][ 91]LogSlate: Took 0.010472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.02.25-17.39.39:453][ 91]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ฌ (U+0e0c)'
+[2022.02.25-17.39.39:464][ 91]LogSlate: Took 0.010731 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.02.25-17.39.42:576][460]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.25-17.39.42:577][460]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.25-17.39.45:040][753]LogContentBrowser: Attempting asset rename: NewFolder -> Grid
+[2022.02.25-17.39.45:042][753]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.25-17.42.39:086][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.02.25-17.42.39:099][841]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/ppp3_Auto7E791507443D0059A2779C8AA18429884.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/Autosaves/Game/Monopoly/MAP/ppp3_Auto7.umap'
+[2022.02.25-17.42.39:102][841]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.049
+[2022.02.25-17.42.39:102][841]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.02.25-17.43.16:586][279]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.25-17.43.17:798][279]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.25-17.43.17:807][279]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.25-17.43.17:828][279]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.25-17.43.20:729][519]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GridTile
+[2022.02.25-17.43.20:747][519]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.25-17.52.39:632][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.02.25-17.52.39:636][433]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.028
+[2022.02.25-18.02.40:220][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.25-18.02.40:221][629]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.022
+[2022.02.25-18.12.40:891][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.25-18.12.40:894][425]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.023
+[2022.02.25-18.22.41:396][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.02.25-18.22.41:398][221]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.021
+[2022.02.25-18.32.41:834][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.25-18.32.41:834][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-18.42.42:877][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.25-18.42.42:877][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.021
+[2022.02.25-18.52.43:065][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.25-18.52.43:065][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-19.02.43:930][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.25-19.02.43:930][405]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.024
+[2022.02.25-19.12.44:569][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.25-19.12.44:570][201]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-19.22.44:995][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.25-19.22.44:995][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-19.32.45:433][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.25-19.32.45:436][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.021
+[2022.02.25-19.42.46:033][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.25-19.42.46:035][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.022
+[2022.02.25-19.52.46:419][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.25-19.52.46:419][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-20.02.47:568][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.25-20.02.47:569][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.018
+[2022.02.25-20.12.48:352][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.25-20.12.48:352][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-20.22.48:662][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.25-20.22.48:662][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-20.32.49:267][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.25-20.32.49:267][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-20.42.49:996][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.02.25-20.42.49:997][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-20.52.50:655][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.25-20.52.50:655][164]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.020
+[2022.02.25-21.02.51:765][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.25-21.02.51:766][961]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-21.12.51:976][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.25-21.12.51:976][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.021
+[2022.02.25-21.22.52:414][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.25-21.22.52:415][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-21.32.53:063][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.25-21.32.53:064][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-21.42.54:273][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.02.25-21.42.54:274][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-21.52.54:846][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.25-21.52.54:846][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-22.02.55:225][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.25-22.02.55:226][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.020
+[2022.02.25-22.12.55:804][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.25-22.12.55:805][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-22.22.56:598][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.25-22.22.56:599][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.019
+[2022.02.25-22.32.57:006][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.25-22.32.57:006][127]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.020
+[2022.02.25-22.42.57:880][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.25-22.42.57:881][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.020
+[2022.02.25-22.52.58:071][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.02.25-22.52.58:071][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.024
+[2022.02.25-22.53.02:781][733]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.25-22.53.02:871][733]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.25-22.53.02:871][733]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-05.58.33:383][734]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.26-05.58.33:448][734]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.26-05.58.34:798][734]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-05.58.34:799][734]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-05.58.36:811][735]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.26-05.58.36:811][735]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.26-05.58.36:812][735]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.26-05.58.36:855][735]LogHttp: Warning: 000001769D687200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B856039B7-4E7A-B019-49A7-9C8B9DA2B28E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.26-05.58.36:855][735]LogHttp: Warning: 000001769D687200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.26-05.58.36:855][735]LogHttp: Warning: 000001769D687200: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2022.02.26-05.58.36:855][735]LogHttp: Warning: 000001769D687200: libcurl info message cache 1 (Closing connection 0)
+[2022.02.26-05.58.36:855][735]LogHttp: Warning: 000001769D687200: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.26-05.58.36:856][735]LogHttp: Warning: 000001769D687200: libcurl info message cache 3 (Closing connection 1)
+[2022.02.26-05.58.36:885][735]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.26-05.58.36:928][735]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.26-05.58.37:055][735]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-05.58.37:055][735]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-05.58.37:458][736]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B856039B7-4E7A-B019-49A7-9C8B9DA2B28E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=21b352cb4fa0f941f1edbb9bdff8894b%7C9fa2559e84ec4eb3a8e86d261efa3ad1%7C7d3ad60c-4a36-4de9-813f-bede9f96f563&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.26-05.58.38:330][739]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.02.26-05.58.38:330][739]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.26-05.58.38:331][739]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.26-05.58.38:468][739]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.26-05.58.43:458][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.26-05.58.43:459][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Monopoly/MAP/ppp3' took 0.050
+[2022.02.26-06.00.44:267][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Monopoly/BP/BP_GridTile.BP_GridTile
+[2022.02.26-06.00.52:350][942]LogSlate: Window 'BP_GridTile' being destroyed
+[2022.02.26-06.00.52:357][942]LogSlate: Window 'BP_GridTile' being destroyed
+[2022.02.26-06.00.52:397][942]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-06.00.52:398][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-06.00.52:828][942]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.26-06.00.52:828][942]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-06.00.52:828][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-06.00.54:537][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.26-06.02.13:352][746]BlueprintLog: New page: Compile BP_Grid
+[2022.02.26-06.02.13:472][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.02.26-06.02.14:321][790]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid94339D544928CEE487CDC6957FA58F4B.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.26-06.02.14:336][790]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.26-06.02.14:336][790]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.26-06.02.17:470][ 19]BlueprintLog: New page: Compile BP_Grid
+[2022.02.26-06.02.17:537][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.02.26-06.02.18:055][ 51]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_Grid8583400449E113654219D587D7C6A7FA.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.26-06.02.18:069][ 51]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.26-06.02.18:069][ 51]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid
+[2022.02.26-06.02.24:510][464]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Saved/BP_GridA096B9494F6E9AC60F189D84FE4E9C56.tmp' to '../../../../../../Users/Oil/Documents/GitHub/English-Vocabulary-Learning-Game-for-General-Aptitude-Test/MyProject/Content/Monopoly/BP/BP_Grid.uasset'
+[2022.02.26-06.02.24:526][464]AssetCheck: New page: Asset Save: BP_Grid
+[2022.02.26-06.02.24:526][464]LogContentValidation: Display: Validating Blueprint /Game/Monopoly/BP/BP_Grid.BP_Grid

@@ -1,0 +1,1 @@
+../../../MyProject/MyProject.uproject  /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -Messaging -SessionId=CEB10B11444EB7CAC0F04C94E792341B -SessionOwner="lili_liew" -SessionName="Launch On Device"    -filehostip=2620:9b::194d:1f13+10.0.4.155+127.0.0.1
